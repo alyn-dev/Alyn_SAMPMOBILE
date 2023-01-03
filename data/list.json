@@ -1583,6 +1583,13 @@
             "gpu": "all"
         },
         {
+            "name": "arial.ttf",
+            "path": "fonts/arial.ttf",
+            "size": "367112",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/arial.ttf",
+            "gpu": "all"
+        },
+        {
             "name": "arial_bold.ttf",
             "path": "fonts/arial_bold.ttf",
             "size": "352224",
@@ -1597,10 +1604,73 @@
             "gpu": "all"
         },
         {
+            "name": "georgia.ttf",
+            "path": "fonts/georgia.ttf",
+            "size": "219712",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/georgia.ttf",
+            "gpu": "all"
+        },
+        {
             "name": "gtaweap3.ttf",
             "path": "fonts/gtaweap3.ttf",
             "size": "104004",
             "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "impact.ttf",
+            "path": "fonts/impact.ttf",
+            "size": "206784",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/impact.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "palatino_linotype.ttf",
+            "path": "fonts/palatino_linotype.ttf",
+            "size": "489884",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/palatino_linotype.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "quartz_ms.ttf",
+            "path": "fonts/quartz_ms.ttf",
+            "size": "51032",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/quartz_ms.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "segoe_print.ttf",
+            "path": "fonts/segoe_print.ttf",
+            "size": "172448",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/segoe_print.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "segoe_script.ttf",
+            "path": "fonts/segoe_script.ttf",
+            "size": "620204",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/segoe_script.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "tahoma.ttf",
+            "path": "fonts/tahoma.ttf",
+            "size": "939280",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/tahoma.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "webdings.ttf",
+            "path": "fonts/webdings.ttf",
+            "size": "120560",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/webdings.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "wingding.ttf",
+            "path": "fonts/wingding.ttf",
+            "size": "82180",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/wingding.ttf",
             "gpu": "all"
         },
         {
