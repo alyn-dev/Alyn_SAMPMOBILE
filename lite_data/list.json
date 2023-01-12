@@ -1,0 +1,2321 @@
+{
+    "files": [
+        {
+            "name": "anim.img",
+            "path": "anim/anim.img",
+            "size": "10942464",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/anim/anim.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cuts.img",
+            "path": "anim/cuts.img",
+            "size": "16029696",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/anim/cuts.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "path": "anim/ped.ifp",
+            "size": "1433248",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/anim/ped.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "path": "audio/CONFIG/AudioEventHistory.txt",
+            "size": "114056",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/AudioEventHistory.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "BankLkup.dat",
+            "path": "audio/CONFIG/BankLkup.dat",
+            "size": "8520",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/BankLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "BankSlot.dat",
+            "path": "audio/CONFIG/BankSlot.dat",
+            "size": "216902",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/BankSlot.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "EventVol.dat",
+            "path": "audio/CONFIG/EventVol.dat",
+            "size": "45402",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/EventVol.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "PakFiles.dat",
+            "path": "audio/CONFIG/PakFiles.dat",
+            "size": "468",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/PakFiles.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "path": "audio/CONFIG/SOUNDINF.DAT",
+            "size": "746760",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/SOUNDINF.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "StrmPaks.dat",
+            "path": "audio/CONFIG/StrmPaks.dat",
+            "size": "272",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/StrmPaks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TrakLkup.dat",
+            "path": "audio/CONFIG/TrakLkup.dat",
+            "size": "23064",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/TrakLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "path": "audio/CONFIG/TRKHEAD.DAT",
+            "size": "15506696",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/CONFIG/TRKHEAD.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw",
+            "path": "audio/SFX/FEET.osw",
+            "size": "138118",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/FEET.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw.idx",
+            "path": "audio/SFX/FEET.osw.idx",
+            "size": "1220",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/FEET.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw",
+            "path": "audio/SFX/GENRL.osw",
+            "size": "9362373",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/GENRL.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "path": "audio/SFX/GENRL.osw.idx",
+            "size": "20868",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/GENRL.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw",
+            "path": "audio/SFX/PAIN_A.osw",
+            "size": "3247335",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/PAIN_A.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "path": "audio/SFX/PAIN_A.osw.idx",
+            "size": "12836",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/SFX/PAIN_A.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw",
+            "path": "audio/STREAMS/AA.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/AA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw.idx",
+            "path": "audio/STREAMS/AA.osw.idx",
+            "size": "1522",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/AA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw",
+            "path": "audio/STREAMS/ADVERTS.osw",
+            "size": "3516982",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/ADVERTS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "path": "audio/STREAMS/ADVERTS.osw.idx",
+            "size": "1591",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/ADVERTS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "path": "audio/STREAMS/AMBIENCE.osw",
+            "size": "22719112",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/AMBIENCE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "path": "audio/STREAMS/AMBIENCE.osw.idx",
+            "size": "924",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/AMBIENCE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw",
+            "path": "audio/STREAMS/BEATS.osw",
+            "size": "9415375",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/BEATS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "path": "audio/STREAMS/BEATS.osw.idx",
+            "size": "234",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/BEATS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw",
+            "path": "audio/STREAMS/CH.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw.idx",
+            "path": "audio/STREAMS/CH.osw.idx",
+            "size": "2994",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw",
+            "path": "audio/STREAMS/CO.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CO.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw.idx",
+            "path": "audio/STREAMS/CO.osw.idx",
+            "size": "3569",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CO.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw",
+            "path": "audio/STREAMS/CR.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw.idx",
+            "path": "audio/STREAMS/CR.osw.idx",
+            "size": "3592",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "path": "audio/STREAMS/CUTSCENE.osw",
+            "size": "301175",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CUTSCENE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "path": "audio/STREAMS/CUTSCENE.osw.idx",
+            "size": "3247",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/CUTSCENE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw",
+            "path": "audio/STREAMS/DS.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/DS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw.idx",
+            "path": "audio/STREAMS/DS.osw.idx",
+            "size": "4121",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/DS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw",
+            "path": "audio/STREAMS/HC.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/HC.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw.idx",
+            "path": "audio/STREAMS/HC.osw.idx",
+            "size": "2649",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/HC.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw",
+            "path": "audio/STREAMS/MH.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/MH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw.idx",
+            "path": "audio/STREAMS/MH.osw.idx",
+            "size": "3500",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/MH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw",
+            "path": "audio/STREAMS/MR.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/MR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw.idx",
+            "path": "audio/STREAMS/MR.osw.idx",
+            "size": "3385",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/MR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw",
+            "path": "audio/STREAMS/NJ.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/NJ.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw.idx",
+            "path": "audio/STREAMS/NJ.osw.idx",
+            "size": "2994",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/NJ.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw",
+            "path": "audio/STREAMS/RE.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/RE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw.idx",
+            "path": "audio/STREAMS/RE.osw.idx",
+            "size": "3707",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/RE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw",
+            "path": "audio/STREAMS/RG.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/RG.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw.idx",
+            "path": "audio/STREAMS/RG.osw.idx",
+            "size": "3914",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/RG.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw",
+            "path": "audio/STREAMS/TK.osw",
+            "size": "15462",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/TK.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw.idx",
+            "path": "audio/STREAMS/TK.osw.idx",
+            "size": "2327",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/audio/STREAMS/TK.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "path": "data/360Default1280x720.cfg",
+            "size": "10898",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/360Default1280x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "path": "data/360Default960x720.cfg",
+            "size": "10888",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/360Default960x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "animgrp.dat",
+            "path": "data/animgrp.dat",
+            "size": "3096",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/animgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ar_stats.dat",
+            "path": "data/ar_stats.dat",
+            "size": "3593",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/ar_stats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carcols.dat",
+            "path": "data/carcols.dat",
+            "size": "15361",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/carcols.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "cargrp.dat",
+            "path": "data/cargrp.dat",
+            "size": "3909",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/cargrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carmods.dat",
+            "path": "data/carmods.dat",
+            "size": "8763",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/carmods.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "clothes.dat",
+            "path": "data/clothes.dat",
+            "size": "5317",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/clothes.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "colorcycle.dat",
+            "path": "data/colorcycle.dat",
+            "size": "13612",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/colorcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "Cop.ped",
+            "path": "data/Decision/Allowed/Cop.ped",
+            "size": "4908",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/Cop.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Fireman.ped",
+            "path": "data/Decision/Allowed/Fireman.ped",
+            "size": "4435",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/Fireman.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "GangMbr.ped",
+            "path": "data/Decision/Allowed/GangMbr.ped",
+            "size": "6194",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/GangMbr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Indoors.ped",
+            "path": "data/Decision/Allowed/Indoors.ped",
+            "size": "2809",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/Indoors.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "MISSION.grp",
+            "path": "data/Decision/Allowed/MISSION.grp",
+            "size": "2758",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/MISSION.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "m_empty.ped",
+            "path": "data/Decision/Allowed/m_empty.ped",
+            "size": "982",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_empty.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_norm.ped",
+            "path": "data/Decision/Allowed/m_norm.ped",
+            "size": "4142",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_plyr.ped",
+            "path": "data/Decision/Allowed/m_plyr.ped",
+            "size": "2000",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_plyr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_steal.ped",
+            "path": "data/Decision/Allowed/m_steal.ped",
+            "size": "3663",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_steal.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_tough.ped",
+            "path": "data/Decision/Allowed/m_tough.ped",
+            "size": "3980",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_weak.ped",
+            "path": "data/Decision/Allowed/m_weak.ped",
+            "size": "4062",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/m_weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.grp",
+            "path": "data/Decision/Allowed/RANDOM.grp",
+            "size": "4623",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/RANDOM.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.ped",
+            "path": "data/Decision/Allowed/RANDOM.ped",
+            "size": "4142",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/RANDOM.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM2.grp",
+            "path": "data/Decision/Allowed/RANDOM2.grp",
+            "size": "4623",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/RANDOM2.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Norm.ped",
+            "path": "data/Decision/Allowed/R_Norm.ped",
+            "size": "6450",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/R_Norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Tough.ped",
+            "path": "data/Decision/Allowed/R_Tough.ped",
+            "size": "6378",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/R_Tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Weak.ped",
+            "path": "data/Decision/Allowed/R_Weak.ped",
+            "size": "6289",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/Allowed/R_Weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "PedEvent.txt",
+            "path": "data/Decision/PedEvent.txt",
+            "size": "1298",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/Decision/PedEvent.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "default.dat",
+            "path": "data/default.dat",
+            "size": "577",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/default.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.ide",
+            "path": "data/default.ide",
+            "size": "4679",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/default.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "fonts.dat",
+            "path": "data/fonts.dat",
+            "size": "3576",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/fonts.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "furnitur.dat",
+            "path": "data/furnitur.dat",
+            "size": "16480",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/furnitur.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gridref.dat",
+            "path": "data/gridref.dat",
+            "size": "1498",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/gridref.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "path": "data/gta.dat",
+            "size": "3776",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "path": "data/handling.cfg",
+            "size": "64532",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/handling.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "info.zon",
+            "path": "data/info.zon",
+            "size": "28139",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/info.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "map.zon",
+            "path": "data/map.zon",
+            "size": "436",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/map.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "Audiozon.ipl",
+            "path": "data/maps/Audiozon.ipl",
+            "size": "10802",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/Audiozon.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ide",
+            "path": "data/maps/country/countn2.ide",
+            "size": "35439",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ipl",
+            "path": "data/maps/country/countn2.ipl",
+            "size": "41665",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ide",
+            "path": "data/maps/country/countrye.ide",
+            "size": "34529",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countrye.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ipl",
+            "path": "data/maps/country/countrye.ipl",
+            "size": "49301",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countrye.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ide",
+            "path": "data/maps/country/countryN.ide",
+            "size": "11308",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ipl",
+            "path": "data/maps/country/countryN.ipl",
+            "size": "14407",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ide",
+            "path": "data/maps/country/countryS.ide",
+            "size": "18450",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ipl",
+            "path": "data/maps/country/countryS.ipl",
+            "size": "33835",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryW.ide",
+            "path": "data/maps/country/countryW.ide",
+            "size": "19704",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryw.ipl",
+            "path": "data/maps/country/countryw.ipl",
+            "size": "35057",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/countryw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "counxref.ide",
+            "path": "data/maps/country/counxref.ide",
+            "size": "8494",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/country/counxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "cull.ipl",
+            "path": "data/maps/cull.ipl",
+            "size": "104318",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/cull.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "barriers.ide",
+            "path": "data/maps/generic/barriers.ide",
+            "size": "1437",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/barriers.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic.ide",
+            "path": "data/maps/generic/dynamic.ide",
+            "size": "4611",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/dynamic.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic2.ide",
+            "path": "data/maps/generic/dynamic2.ide",
+            "size": "10510",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/dynamic2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "multiobj.ide",
+            "path": "data/maps/generic/multiobj.ide",
+            "size": "5020",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/multiobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.ide",
+            "path": "data/maps/generic/procobj.ide",
+            "size": "4755",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/procobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegepart.ide",
+            "path": "data/maps/generic/vegepart.ide",
+            "size": "8062",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/generic/vegepart.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ide",
+            "path": "data/maps/interior/gen_int1.ide",
+            "size": "2747",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int1.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ipl",
+            "path": "data/maps/interior/gen_int1.ipl",
+            "size": "21074",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int1.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ide",
+            "path": "data/maps/interior/gen_int2.ide",
+            "size": "10941",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ipl",
+            "path": "data/maps/interior/gen_int2.ipl",
+            "size": "1683",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ide",
+            "path": "data/maps/interior/gen_int3.ide",
+            "size": "3252",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int3.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ipl",
+            "path": "data/maps/interior/gen_int3.ipl",
+            "size": "2091",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ide",
+            "path": "data/maps/interior/gen_int4.ide",
+            "size": "2323",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int4.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ipl",
+            "path": "data/maps/interior/gen_int4.ipl",
+            "size": "1185",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ide",
+            "path": "data/maps/interior/gen_int5.ide",
+            "size": "4682",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int5.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ipl",
+            "path": "data/maps/interior/gen_int5.ipl",
+            "size": "2988",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_int5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ide",
+            "path": "data/maps/interior/gen_intb.ide",
+            "size": "5459",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_intb.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ipl",
+            "path": "data/maps/interior/gen_intb.ipl",
+            "size": "1626",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/gen_intb.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ide",
+            "path": "data/maps/interior/int_cont.ide",
+            "size": "385",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_cont.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ipl",
+            "path": "data/maps/interior/int_cont.ipl",
+            "size": "910",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_cont.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ide",
+            "path": "data/maps/interior/int_LA.ide",
+            "size": "6004",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_LA.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ipl",
+            "path": "data/maps/interior/int_LA.ipl",
+            "size": "1312",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_LA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ide",
+            "path": "data/maps/interior/int_SF.ide",
+            "size": "1260",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_SF.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ipl",
+            "path": "data/maps/interior/int_SF.ipl",
+            "size": "1334",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_SF.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ide",
+            "path": "data/maps/interior/int_veg.ide",
+            "size": "4684",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_veg.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ipl",
+            "path": "data/maps/interior/int_veg.ipl",
+            "size": "5299",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/int_veg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "propext.ide",
+            "path": "data/maps/interior/propext.ide",
+            "size": "2340",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/propext.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "path": "data/maps/interior/props.ide",
+            "size": "26326",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props2.ide",
+            "path": "data/maps/interior/props2.ide",
+            "size": "21174",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/props2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ide",
+            "path": "data/maps/interior/savehous.ide",
+            "size": "1724",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/savehous.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ipl",
+            "path": "data/maps/interior/savehous.ipl",
+            "size": "2959",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/savehous.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ide",
+            "path": "data/maps/interior/stadint.ide",
+            "size": "2851",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/stadint.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ipl",
+            "path": "data/maps/interior/stadint.ipl",
+            "size": "6299",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/interior/stadint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ide",
+            "path": "data/maps/LA/LAe.ide",
+            "size": "12249",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ipl",
+            "path": "data/maps/LA/LAe.ipl",
+            "size": "27328",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ide",
+            "path": "data/maps/LA/LAe2.ide",
+            "size": "21907",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAe2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ipl",
+            "path": "data/maps/LA/LAe2.ipl",
+            "size": "33651",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAe2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ide",
+            "path": "data/maps/LA/LAhills.ide",
+            "size": "10601",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAhills.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ipl",
+            "path": "data/maps/LA/LAhills.ipl",
+            "size": "34506",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAhills.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ide",
+            "path": "data/maps/LA/LAn.ide",
+            "size": "11107",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ipl",
+            "path": "data/maps/LA/LAn.ipl",
+            "size": "14264",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ide",
+            "path": "data/maps/LA/LAn2.ide",
+            "size": "9565",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ipl",
+            "path": "data/maps/LA/LAn2.ipl",
+            "size": "13185",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ide",
+            "path": "data/maps/LA/LAs.ide",
+            "size": "12575",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ipl",
+            "path": "data/maps/LA/LAs.ipl",
+            "size": "22414",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ide",
+            "path": "data/maps/LA/LAs2.ide",
+            "size": "12364",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAs2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ipl",
+            "path": "data/maps/LA/LAs2.ipl",
+            "size": "38441",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAs2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ide",
+            "path": "data/maps/LA/LAw.ide",
+            "size": "9412",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ipl",
+            "path": "data/maps/LA/LAw.ipl",
+            "size": "15105",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ide",
+            "path": "data/maps/LA/LAw2.ide",
+            "size": "11060",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAw2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ipl",
+            "path": "data/maps/LA/LAw2.ipl",
+            "size": "18232",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAw2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ide",
+            "path": "data/maps/LA/LaWn.ide",
+            "size": "13092",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LaWn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ipl",
+            "path": "data/maps/LA/LaWn.ipl",
+            "size": "24330",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LaWn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAxref.ide",
+            "path": "data/maps/LA/LAxref.ide",
+            "size": "10477",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/LA/LAxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ide",
+            "path": "data/maps/leveldes/leveldes.ide",
+            "size": "360",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/leveldes.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ipl",
+            "path": "data/maps/leveldes/leveldes.ipl",
+            "size": "165",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/leveldes.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ide",
+            "path": "data/maps/leveldes/levelmap.ide",
+            "size": "3194",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/levelmap.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ipl",
+            "path": "data/maps/leveldes/levelmap.ipl",
+            "size": "4675",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/levelmap.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelxre.ide",
+            "path": "data/maps/leveldes/levelxre.ide",
+            "size": "9897",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/levelxre.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ide",
+            "path": "data/maps/leveldes/seabed.ide",
+            "size": "12039",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/seabed.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ipl",
+            "path": "data/maps/leveldes/seabed.ipl",
+            "size": "23342",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/leveldes/seabed.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlu.ipl",
+            "path": "data/maps/occlu.ipl",
+            "size": "1012",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/occlu.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluint.ipl",
+            "path": "data/maps/occluint.ipl",
+            "size": "2338",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/occluint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluLA.ipl",
+            "path": "data/maps/occluLA.ipl",
+            "size": "35956",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/occluLA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlusf.ipl",
+            "path": "data/maps/occlusf.ipl",
+            "size": "16114",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/occlusf.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluveg.ipl",
+            "path": "data/maps/occluveg.ipl",
+            "size": "17944",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/occluveg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths.ipl",
+            "path": "data/maps/paths.ipl",
+            "size": "2658607",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/paths.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths2.ipl",
+            "path": "data/maps/paths2.ipl",
+            "size": "2292241",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/paths2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths3.ipl",
+            "path": "data/maps/paths3.ipl",
+            "size": "2428066",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/paths3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths4.ipl",
+            "path": "data/maps/paths4.ipl",
+            "size": "253014",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/paths4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths5.ipl",
+            "path": "data/maps/paths5.ipl",
+            "size": "457678",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/paths5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ide",
+            "path": "data/maps/SF/SFe.ide",
+            "size": "16224",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ipl",
+            "path": "data/maps/SF/SFe.ipl",
+            "size": "26707",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ide",
+            "path": "data/maps/SF/SFn.ide",
+            "size": "11219",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ipl",
+            "path": "data/maps/SF/SFn.ipl",
+            "size": "26201",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ide",
+            "path": "data/maps/SF/SFs.ide",
+            "size": "18948",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ipl",
+            "path": "data/maps/SF/SFs.ipl",
+            "size": "37969",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ide",
+            "path": "data/maps/SF/SFSe.ide",
+            "size": "30227",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFSe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ipl",
+            "path": "data/maps/SF/SFSe.ipl",
+            "size": "53359",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFSe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ide",
+            "path": "data/maps/SF/SFw.ide",
+            "size": "16473",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ipl",
+            "path": "data/maps/SF/SFw.ipl",
+            "size": "29247",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFxref.ide",
+            "path": "data/maps/SF/SFxref.ide",
+            "size": "4631",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/SF/SFxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "tunnels.ipl",
+            "path": "data/maps/tunnels.ipl",
+            "size": "3230",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/tunnels.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ide",
+            "path": "data/maps/vegas/vegasE.ide",
+            "size": "35542",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegasE.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ipl",
+            "path": "data/maps/vegas/vegasE.ipl",
+            "size": "61084",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegasE.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasN.ide",
+            "path": "data/maps/vegas/VegasN.ide",
+            "size": "23715",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/VegasN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasN.ipl",
+            "path": "data/maps/vegas/vegasN.ipl",
+            "size": "36651",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegasN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasS.ide",
+            "path": "data/maps/vegas/VegasS.ide",
+            "size": "18656",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/VegasS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasS.ipl",
+            "path": "data/maps/vegas/vegasS.ipl",
+            "size": "30343",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegasS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasW.ide",
+            "path": "data/maps/vegas/VegasW.ide",
+            "size": "25456",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/VegasW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasW.ipl",
+            "path": "data/maps/vegas/vegasW.ipl",
+            "size": "49867",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegasW.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ide",
+            "path": "data/maps/vegas/vegaxref.ide",
+            "size": "5751",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegaxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ipl",
+            "path": "data/maps/vegas/vegaxref.ipl",
+            "size": "3661",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/vegas/vegaxref.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "veh_mods.ide",
+            "path": "data/maps/veh_mods/veh_mods.ide",
+            "size": "7323",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/maps/veh_mods/veh_mods.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "melee.dat",
+            "path": "data/melee.dat",
+            "size": "6306",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/melee.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "object.dat",
+            "path": "data/object.dat",
+            "size": "126118",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/object.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carrec.img",
+            "path": "data/paths/carrec.img",
+            "size": "2357248",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/carrec.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "path": "data/paths/ROADBLOX.DAT",
+            "size": "1304",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/ROADBLOX.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks.dat",
+            "path": "data/paths/tracks.dat",
+            "size": "25474",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/tracks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "data/paths/tracks2.dat",
+            "size": "1892",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks3.dat",
+            "path": "data/paths/tracks3.dat",
+            "size": "8328",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/tracks3.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "data/paths/tracks4.dat",
+            "size": "18347",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/paths/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.dat",
+            "path": "data/ped.dat",
+            "size": "1276",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/ped.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "pedgrp.dat",
+            "path": "data/pedgrp.dat",
+            "size": "5792",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/pedgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "path": "data/peds.ide",
+            "size": "33401",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "pedstats.dat",
+            "path": "data/pedstats.dat",
+            "size": "3604",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/pedstats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "plants.dat",
+            "path": "data/plants.dat",
+            "size": "9887",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/plants.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "popcycle.dat",
+            "path": "data/popcycle.dat",
+            "size": "127108",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/popcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.dat",
+            "path": "data/procobj.dat",
+            "size": "10019",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/procobj.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "mainV1.scm",
+            "path": "data/script/mainV1.scm",
+            "size": "3169778",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/script/mainV1.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "scriptv1.img",
+            "path": "data/script/scriptv1.img",
+            "size": "561152",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/script/scriptv1.img",
+            "gpu": "all"
+        },
+        {
+            "name": "shopping.dat",
+            "path": "data/shopping.dat",
+            "size": "46875",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/shopping.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ShopUVs.dat",
+            "path": "data/ShopUVs.dat",
+            "size": "30509",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/ShopUVs.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "statdisp.dat",
+            "path": "data/statdisp.dat",
+            "size": "7292",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/statdisp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surface.dat",
+            "path": "data/surface.dat",
+            "size": "576",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/surface.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfaud.dat",
+            "path": "data/surfaud.dat",
+            "size": "6530",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/surfaud.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfinfo.dat",
+            "path": "data/surfinfo.dat",
+            "size": "28106",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/surfinfo.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "timecyc.dat",
+            "path": "data/timecyc.dat",
+            "size": "40037",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/timecyc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "path": "data/TouchDefaultPhone3x2.cfg",
+            "size": "10912",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/TouchDefaultPhone3x2.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "path": "data/TouchDefaultPhoneWidescreen.cfg",
+            "size": "10924",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/TouchDefaultPhoneWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "path": "data/TouchDefaultTablet4x3.cfg",
+            "size": "10926",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/TouchDefaultTablet4x3.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "path": "data/TouchDefaultTabletWidescreen.cfg",
+            "size": "10923",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/TouchDefaultTabletWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "txdcut.ide",
+            "path": "data/txdcut.ide",
+            "size": "478",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/txdcut.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "data/vehicles.ide",
+            "size": "21093",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "water.dat",
+            "path": "data/water.dat",
+            "size": "70099",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/water.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water1.dat",
+            "path": "data/water1.dat",
+            "size": "60063",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/water1.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "weapon.dat",
+            "path": "data/weapon.dat",
+            "size": "11602",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/data/weapon.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold.ttf",
+            "path": "fonts/arial_bold.ttf",
+            "size": "352224",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/arial_bold.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "arial_bold_thai.ttf",
+            "path": "fonts/arial_bold_thai.ttf",
+            "size": "91696",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/arial_bold_thai.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "gtaweap3.ttf",
+            "path": "fonts/gtaweap3.ttf",
+            "size": "104004",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/fonts/gtaweap3.ttf",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.col",
+            "path": "models/coll/peds.col",
+            "size": "21477",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/models/coll/peds.col",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.col",
+            "path": "models/coll/vehicles.col",
+            "size": "1096",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/models/coll/vehicles.col",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.col",
+            "path": "models/coll/weapons.col",
+            "size": "560",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/models/coll/weapons.col",
+            "gpu": "all"
+        },
+        {
+            "name": "effects.fxp",
+            "path": "models/effects.fxp",
+            "size": "616708",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/models/effects.fxp",
+            "gpu": "all"
+        },
+        {
+            "name": "MINFO.BIN",
+            "path": "models/MINFO.BIN",
+            "size": "41100",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/models/MINFO.BIN",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "path": "SAMP/gta.dat",
+            "size": "3789",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "path": "SAMP/handling.cfg",
+            "size": "64532",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/handling.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "main.scm",
+            "path": "SAMP/main.scm",
+            "size": "96997",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/main.scm",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "path": "SAMP/peds.ide",
+            "size": "36369",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMP.ide",
+            "path": "SAMP/SAMP.ide",
+            "size": "89349",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/SAMP.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "script.img",
+            "path": "SAMP/script.img",
+            "size": "184320",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/script.img",
+            "gpu": "all"
+        },
+        {
+            "name": "TIMECYC.DAT",
+            "path": "SAMP/TIMECYC.DAT",
+            "size": "40037",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/TIMECYC.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "path": "SAMP/tracks2.dat",
+            "size": "1",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "path": "SAMP/tracks4.dat",
+            "size": "1",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "path": "SAMP/vehicles.ide",
+            "size": "21093",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "WEAPON.dat",
+            "path": "SAMP/WEAPON.dat",
+            "size": "11585",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/SAMP/WEAPON.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "stream.ini",
+            "path": "stream.ini",
+            "size": "197",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/stream.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "path": "texdb/gta3/gta3.dxt.dat",
+            "size": "185311596",
+            "url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "path": "texdb/gta3/gta3.dxt.tmb",
+            "size": "525340",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "path": "texdb/gta3/gta3.dxt.toc",
+            "size": "49784",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.etc.dat",
+            "path": "texdb/gta3/gta3.etc.dat",
+            "size": "185725552",
+            "url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.tmb",
+            "path": "texdb/gta3/gta3.etc.tmb",
+            "size": "575452",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.toc",
+            "path": "texdb/gta3/gta3.etc.toc",
+            "size": "49784",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.pvr.dat",
+            "path": "texdb/gta3/gta3.pvr.dat",
+            "size": "115205762",
+            "url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.tmb",
+            "path": "texdb/gta3/gta3.pvr.tmb",
+            "size": "794396",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.toc",
+            "path": "texdb/gta3/gta3.pvr.toc",
+            "size": "49784",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.txt",
+            "path": "texdb/gta3/gta3.txt",
+            "size": "792665",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "path": "texdb/gta3/gta3.unc.tmb",
+            "size": "1457212",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta3/gta3.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.img",
+            "path": "texdb/gta3.img",
+            "size": "283521024",
+            "url": "https://github.com/ALYNADV/Alyn_SAMPMOBILE/releases/download/data_files/gta3.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "path": "texdb/gta_int/gta_int.dxt.dat",
+            "size": "13592262",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "path": "texdb/gta_int/gta_int.dxt.tmb",
+            "size": "663408",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "path": "texdb/gta_int/gta_int.dxt.toc",
+            "size": "10132",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.etc.dat",
+            "path": "texdb/gta_int/gta_int.etc.dat",
+            "size": "21742444",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.tmb",
+            "path": "texdb/gta_int/gta_int.etc.tmb",
+            "size": "663408",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.toc",
+            "path": "texdb/gta_int/gta_int.etc.toc",
+            "size": "10132",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.pvr.dat",
+            "path": "texdb/gta_int/gta_int.pvr.dat",
+            "size": "9466002",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.tmb",
+            "path": "texdb/gta_int/gta_int.pvr.tmb",
+            "size": "663408",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.toc",
+            "path": "texdb/gta_int/gta_int.pvr.toc",
+            "size": "10132",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.txt",
+            "path": "texdb/gta_int/gta_int.txt",
+            "size": "174099",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "path": "texdb/gta_int/gta_int.unc.tmb",
+            "size": "663408",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int/gta_int.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.img",
+            "path": "texdb/gta_int.img",
+            "size": "44836864",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/gta_int.img",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.dat",
+            "path": "texdb/menu/menu.dxt.dat",
+            "size": "5187414",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.tmb",
+            "path": "texdb/menu/menu.dxt.tmb",
+            "size": "992",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.toc",
+            "path": "texdb/menu/menu.dxt.toc",
+            "size": "176",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.dat",
+            "path": "texdb/menu/menu.etc.dat",
+            "size": "6472908",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.tmb",
+            "path": "texdb/menu/menu.etc.tmb",
+            "size": "992",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.toc",
+            "path": "texdb/menu/menu.etc.toc",
+            "size": "176",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.dat",
+            "path": "texdb/menu/menu.pvr.dat",
+            "size": "6472908",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.tmb",
+            "path": "texdb/menu/menu.pvr.tmb",
+            "size": "992",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.toc",
+            "path": "texdb/menu/menu.pvr.toc",
+            "size": "176",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.txt",
+            "path": "texdb/menu/menu.txt",
+            "size": "3147",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.unc.tmb",
+            "path": "texdb/menu/menu.unc.tmb",
+            "size": "992",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/menu/menu.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "path": "texdb/mobile/mobile.dxt.dat",
+            "size": "7267946",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "path": "texdb/mobile/mobile.dxt.tmb",
+            "size": "3940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "path": "texdb/mobile/mobile.dxt.toc",
+            "size": "792",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.etc.dat",
+            "path": "texdb/mobile/mobile.etc.dat",
+            "size": "8712314",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "path": "texdb/mobile/mobile.etc.tmb",
+            "size": "3940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.toc",
+            "path": "texdb/mobile/mobile.etc.toc",
+            "size": "792",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "path": "texdb/mobile/mobile.pvr.dat",
+            "size": "8712314",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "path": "texdb/mobile/mobile.pvr.tmb",
+            "size": "3940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "path": "texdb/mobile/mobile.pvr.toc",
+            "size": "792",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.txt",
+            "path": "texdb/mobile/mobile.txt",
+            "size": "14502",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "path": "texdb/mobile/mobile.unc.tmb",
+            "size": "3940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/mobile/mobile.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.dat",
+            "path": "texdb/player/player.pvr.dat",
+            "size": "6569414",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/player/player.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.tmb",
+            "path": "texdb/player/player.pvr.tmb",
+            "size": "6940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/player/player.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.toc",
+            "path": "texdb/player/player.pvr.toc",
+            "size": "1580",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/player/player.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "player.txt",
+            "path": "texdb/player/player.txt",
+            "size": "27810",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/player/player.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "player.img",
+            "path": "texdb/player.img",
+            "size": "16412672",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/player.img",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.dat",
+            "path": "texdb/playerhi/playerhi.pvr.dat",
+            "size": "27658902",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/playerhi/playerhi.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.tmb",
+            "path": "texdb/playerhi/playerhi.pvr.tmb",
+            "size": "6940",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/playerhi/playerhi.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.toc",
+            "path": "texdb/playerhi/playerhi.pvr.toc",
+            "size": "1580",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/playerhi/playerhi.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.txt",
+            "path": "texdb/playerhi/playerhi.txt",
+            "size": "28087",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/playerhi/playerhi.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.dat",
+            "path": "texdb/samp/samp.dxt.dat",
+            "size": "22647590",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.tmb",
+            "path": "texdb/samp/samp.dxt.tmb",
+            "size": "19936",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.toc",
+            "path": "texdb/samp/samp.dxt.toc",
+            "size": "6156",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.dat",
+            "path": "texdb/samp/samp.etc.dat",
+            "size": "33787216",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "path": "texdb/samp/samp.etc.tmb",
+            "size": "19936",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.toc",
+            "path": "texdb/samp/samp.etc.toc",
+            "size": "6156",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.dat",
+            "path": "texdb/samp/samp.pvr.dat",
+            "size": "14359524",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.tmb",
+            "path": "texdb/samp/samp.pvr.tmb",
+            "size": "19936",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.toc",
+            "path": "texdb/samp/samp.pvr.toc",
+            "size": "6156",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.txt",
+            "path": "texdb/samp/samp.txt",
+            "size": "89154",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "path": "texdb/samp/samp.unc.dat",
+            "size": "33150952",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.unc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "path": "texdb/samp/samp.unc.tmb",
+            "size": "20896",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.toc",
+            "path": "texdb/samp/samp.unc.toc",
+            "size": "6156",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp/samp.unc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.img",
+            "path": "texdb/samp.img",
+            "size": "36902912",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/samp.img",
+            "gpu": "all"
+        },
+        {
+            "name": "SAMPCOL.img",
+            "path": "texdb/SAMPCOL.img",
+            "size": "4253696",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/SAMPCOL.img",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.dat",
+            "path": "texdb/txd/txd.360.dat",
+            "size": "7625578",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.360.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.tmb",
+            "path": "texdb/txd/txd.360.tmb",
+            "size": "31028",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.360.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.toc",
+            "path": "texdb/txd/txd.360.toc",
+            "size": "2376",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.360.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "path": "texdb/txd/txd.dxt.dat",
+            "size": "7625578",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "path": "texdb/txd/txd.dxt.tmb",
+            "size": "31028",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "path": "texdb/txd/txd.dxt.toc",
+            "size": "2376",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.etc.dat",
+            "path": "texdb/txd/txd.etc.dat",
+            "size": "9422056",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.tmb",
+            "path": "texdb/txd/txd.etc.tmb",
+            "size": "49460",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.toc",
+            "path": "texdb/txd/txd.etc.toc",
+            "size": "2376",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.pvr.dat",
+            "path": "texdb/txd/txd.pvr.dat",
+            "size": "7716880",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "path": "texdb/txd/txd.pvr.tmb",
+            "size": "25204",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.toc",
+            "path": "texdb/txd/txd.pvr.toc",
+            "size": "2376",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.txt",
+            "path": "texdb/txd/txd.txt",
+            "size": "43193",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.unc.tmb",
+            "path": "texdb/txd/txd.unc.tmb",
+            "size": "59636",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/texdb/txd/txd.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicleAudioSettings.cfg",
+            "path": "vehicleAudioSettings.cfg",
+            "size": "56871",
+            "url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/files/vehicleAudioSettings.cfg",
+            "gpu": "all"
+        }
+    ]
+}

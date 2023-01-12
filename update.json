@@ -1,5 +1,6 @@
 {
-    "game_version": "7.0",
+    "game_version": "8.0",
     "game_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/game/app-game-release.apk",
-    "data_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/list.json"
+    "lite_data_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/lite_data/list.json",
+    "full_data_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/full_data/list.json"
 }
