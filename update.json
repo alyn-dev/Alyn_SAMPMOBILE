@@ -1,5 +1,6 @@
 {
     "game_version": "10.0.1",
-    "game_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/game/app-game-release.apk",
-    "data_url": "https://alynadv.github.io/Alyn_SAMPMOBILE/data/list.json"
+    "debug": true,
+    "game_url": "https://alynsampmobile.online/game/app-game-release.apk",
+    "data_url": "https://alynsampmobile.online/data/list.json"
 }
