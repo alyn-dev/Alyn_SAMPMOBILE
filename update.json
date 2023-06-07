@@ -2,5 +2,6 @@
     "game_version": "10.0.6",
     "debug": false,
     "game_url": "https://alynsampmobile.online/game/app-game-release.apk",
-    "data_url": "https://alynsampmobile.online/data/list.json"
+    "data_url": "https://alynsampmobile.online/data/list.json",
+    "arz_data_url": "https://alynsampmobile.online/data/arz_list.json"
 }
