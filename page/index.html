@@ -10,7 +10,6 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400&amp;display=swap">
   <link rel="stylesheet" href="css/reset.css">
   <link rel="stylesheet" href="css/style.css">
-  <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
 </head>
 
 <body>
@@ -21,19 +20,6 @@
 
     <div class="header_text flex_column_center">
       <h1>SA-MP Mobile</h1>
-      <!-- <div id="game_version" class="footer_div_item flex_row_center">
-      </div>
-
-      <script>
-        (function () {
-          $.getJSON("https://alynadv.github.io/Alyn_SAMPMOBILE/update.json", {
-            format: "json"
-          }).done(function (data) {
-            $("<h2>Latest Game Version: " + data.game_version + "</h2>").appendTo("#game_version");
-          });
-        })();
-      </script> -->
-
     </div>
   </header>
 
@@ -51,7 +37,6 @@
         <a class="main_small_a_item" href="https://www.youtube.com/channel/UCso0K0tDet_rbaeBwLS1ZRg">
           <button class="main_small_button_item">YouTube</button>
         </a>
-
       </div>
     </section>
   </main>
@@ -61,6 +46,16 @@
       <a class="footer_a_item">Copyright © Alyn_SAMPMOBILE</a>
     </div>
   </footer>
-</body>
 
+  <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
+  <script>
+    function redirectToDiscord() {
+      window.location.href = 'https://discord.gg/sa-mp-mobile-899345469111664710';
+    }
+
+    if (window.location.pathname.includes("/discord")) {
+      redirectToDiscord();
+    }
+  </script>
+</body>
 </html>
