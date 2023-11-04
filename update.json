@@ -1,5 +1,9 @@
 {
     "game_version": "11.0",
     "game_url": "https://alynsampmobile.online/game/app-game-release.apk",
-    "data_url": "https://alynsampmobile.online/data/list.json"
+    "data_url": "https://alynsampmobile.online/data/list.json",
+
+    "full_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+    "lite_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
+    "samp_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_list.json"
 }
