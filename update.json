@@ -1,8 +1,8 @@
 {
+    "status": 1,
     "game_version": "11.5",
     "game_url": "https://alynsampmobile.pro/game/app-game-release.apk",
     "data_url": "https://alynsampmobile.pro/data/list.json",
-
     "full_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
     "lite_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
     "samp_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_list.json"
