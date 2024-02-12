@@ -3,6 +3,10 @@
         {
             "host": "play.uifserver.net",
             "port": "7776"
+        },
+        {
+            "host": "ip.oscrias.com.br",
+            "port": "7777"
         }
     ]
 }
