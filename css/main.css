@@ -1,37 +1,9 @@
 @font-face {
-    font-family: TTFirsNeue;
-    font-weight: 400;
-    font-style: normal;
-    font-stretch: normal;
-    src: url(../fonts/TTFirsNeue-Regular.woff2) format("woff2");
-}
-@font-face {
-    font-family: TTFirsNeue;
-    font-weight: 500;
-    font-style: normal;
-    font-stretch: normal;
-    src: url(../fonts/TTFirsNeue-Medium.woff2) format("woff2");
-}
-@font-face {
-    font-family: TTFirsNeue;
+    font-family: Accuratist;
     font-weight: 700;
     font-style: normal;
     font-stretch: normal;
-    src: url(../fonts/TTFirsNeue-Bold.woff2) format("woff2");
-}
-@font-face {
-    font-family: TTFirsNeue;
-    font-weight: 800;
-    font-style: normal;
-    font-stretch: normal;
-    src: url(../fonts/TTFirsNeue-ExtraBold.woff2) format("woff2");
-}
-@font-face {
-    font-family: TTFirsNeue;
-    font-weight: 900;
-    font-style: normal;
-    font-stretch: normal;
-    src: url(../fonts/TTFirsNeue-Black.woff2) format("woff2");
+    src: url(../fonts/Accuratist.ttf) format("ttf");
 }
 @media (min-width: 1200px) {
     .container {
@@ -45,7 +17,7 @@ html {
     overflow-x: hidden !important;
 }
 body {
-    font-family: TTFirsNeue !important;
+    font-family: Accuratist !important;
     font-weight: 400;
     color: #fff;
     background: #0f0f0f;
