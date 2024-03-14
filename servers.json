@@ -1,8 +1,8 @@
 {
     "servers": [
         {
-            "host": "play.uifserver.net",
-            "port": "7776"
+            "host": "51.254.178.238",
+            "port": "7777"
         },
         {
             "host": "ip.oscrias.com.br",
