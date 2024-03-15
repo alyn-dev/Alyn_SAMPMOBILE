@@ -1,0 +1,12 @@
+{
+    "banned_servers": [
+        {
+            "host": "play.ss-rp.com",
+            "port": "7777"
+        },
+        {
+            "host": "141.94.97.71",
+            "port": "7777"
+        }
+    ]
+}
