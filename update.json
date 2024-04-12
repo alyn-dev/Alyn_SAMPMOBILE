@@ -1,6 +1,6 @@
 {
     "status": true,
-    "game_version": "12.1",
+    "game_version": "13",
     "game_url": "https://alynsampmobile.pro/game/app-game-release.apk",
     "data_url": "https://alynsampmobile.pro/data/list.json",
     "test_data_url": "https://alynsampmobile.pro/data/test_list.json",
