@@ -1,10 +1,10 @@
 {
+    "app_status": true,
     "status": true,
     "game_version": "13.1",
+    "beta_version": "13.5",
     "game_url": "https://alynsampmobile.pro/game/app-game-release.apk",
-    "data_url": "https://alynsampmobile.pro/data/list.json",
-    "test_data_url": "https://alynsampmobile.pro/data/test_list.json",
-    "full_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
-    "lite_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json",
-    "samp_data_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/samp_list.json"
+    "data_list_url": "https://alynsampmobile.pro/data/list.json",
+    "data_list2_url": "https://alynsampmobile.pro/data/list2.json",
+    "test_data_url": "https://alynsampmobile.pro/data/test_list.json"
 }

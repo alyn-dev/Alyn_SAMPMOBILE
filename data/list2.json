@@ -1,0 +1,95 @@
+{
+    "files": [
+        {
+            "name": "samp.dxt.dat",
+            "size": "22144848",
+            "path": "texdb\/samp\/samp.dxt.dat",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.tmb",
+            "size": "21376",
+            "path": "texdb\/samp\/samp.dxt.tmb",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.dxt.toc",
+            "size": "6176",
+            "path": "texdb\/samp\/samp.dxt.toc",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.dat",
+            "size": "33279656",
+            "path": "texdb\/samp\/samp.etc.dat",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.tmb",
+            "size": "21376",
+            "path": "texdb\/samp\/samp.etc.tmb",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.etc.toc",
+            "size": "6176",
+            "path": "texdb\/samp\/samp.etc.toc",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.dat",
+            "size": "13894248",
+            "path": "texdb\/samp\/samp.pvr.dat",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.tmb",
+            "size": "21376",
+            "path": "texdb\/samp\/samp.pvr.tmb",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.pvr.toc",
+            "size": "6176",
+            "path": "texdb\/samp\/samp.pvr.toc",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.txt",
+            "size": "89582",
+            "path": "texdb\/samp\/samp.txt",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.dat",
+            "size": "33150952",
+            "path": "texdb\/samp\/samp.unc.dat",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.unc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.tmb",
+            "size": "22528",
+            "path": "texdb\/samp\/samp.unc.tmb",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "samp.unc.toc",
+            "size": "6156",
+            "path": "texdb\/samp\/samp.unc.toc",
+            "url": "https:\/\/content.unisamp-mobile.com\/jmobile_cache\/mobile\/cache\/samp_data\/texdb\/samp\/samp.unc.toc",
+            "gpu": "all"
+        }
+    ]
+}
