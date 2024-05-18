@@ -11,6 +11,10 @@
         {
             "host": "mobile.ss-rp.com",
             "port": "7777"
+        },
+        {
+            "host": "mobile2.ss-rp.com",
+            "port": "7777"
         }
     ]
 }
