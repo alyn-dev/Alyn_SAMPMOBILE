@@ -1,28 +1,27 @@
-𝗨𝗽𝗱𝗮𝘁𝗲: 𝘃𝟭𝟲.𝟭
+Update: v16.1
 
-Wʜᴀᴛ's Fɪxᴇᴅ:
+What's Fixed:
 
-Gᴀᴍᴇ
+Game
 - Modloader
 
 --------------------------------------------------
 
-𝗨𝗽𝗱𝗮𝘁𝗲: 𝘃𝟭𝟲.0
+Update: v16.0
 
-Wʜᴀᴛ's Fɪxᴇᴅ:
+What's Fixed:
 
-Gᴀᴍᴇ
+Game
 - Weapon Recoil
 - Closed PNS/Garages
 - FPS Drop When Aiming
 - Vehicle Audio
 - Crashes/Freezes
 
-Lᴀᴜɴᴄʜᴇʀ
+Launcher
 - Server issues
 
+What's Added:
 
-Wʜᴀᴛ's Aᴅᴅᴇᴅ:
-
-Lᴀᴜɴᴄʜᴇʀ
+Launcher
 - Option for SA-MP version 0.3.7 / 0.3.7-R4
