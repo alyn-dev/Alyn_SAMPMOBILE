@@ -1,4 +1,11 @@
 
+* Update: v16.2 *
+
+Game:
+- Bug & Crash Fixes
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.1 *
 
 Game:
