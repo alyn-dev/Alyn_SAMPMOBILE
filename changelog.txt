@@ -1,4 +1,11 @@
 
+* Update: v16.3 *
+
+Game:
+- Fixed vehcile radio bug
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.2 *
 
 Game:
