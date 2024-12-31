@@ -2,7 +2,7 @@
 * Update: v16.2 *
 
 Game:
-- Bug & Crash Fixes
+- Several Crash & Bug fixes
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
