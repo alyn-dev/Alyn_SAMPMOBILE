@@ -1,21 +1,25 @@
 * Update: v16.5 *
 
 Launcher:
-- New UI Design
-- Added GTA:SA Offline Mode
-- Performance Optimization
-- Removed Monetloader/Cleo/Modloader
+New UI Design
+Added GTA:SA Offline Mode
+Performance Optimization
+Removed Monetloader/Cleo/Modloader
+Changed Package To ro.alyn_sampmobile.launcher
 
-Game:
-- New UI Design (Game Buttons and Dialogs)
-- Added x64 Archeature Support
-- Added Keyboard/Mouse Support
-- Added Chat DoubleTap (Now you have to click 2 times to open keyboard)
-- Improved EditObject and Surfing
-- Fixed VoiceChat
-- Fixed Vehicle Sound
-- Fixed Animations Sync
-- Added New Bugs
+Game: 
+New UI Design (Game Buttons and Dialogs)
+Added x64 Architecture Support
+Added Keyboard/Mouse Support
+Added Chat DoubleTap (Now you have to click twice to open the keyboard)
+Updated To GTA:SA 2.00
+Updated AML
+Performance Optimization
+Improved EditObject and Surfing
+Fixed Voice Chat
+Fixed Vehicle Sound
+Fixed Animations Sync
+Added New Bugs
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
