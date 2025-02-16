@@ -1,3 +1,23 @@
+* Update: v16.5 *
+
+Launcher:
+- New UI Design
+- Added GTA:SA Offline Mode
+- Performance Optimization
+- Removed Monetloader/Cleo/Modloader
+
+Game:
+- New UI Design (Game Buttons and Dialogs)
+- Added x64 Archeature Support
+- Added Keyboard/Mouse Support
+- Added Chat DoubleTap (Now you have to click 2 times to open keyboard)
+- Improved EditObject and Surfing
+- Fixed VoiceChat
+- Fixed Vehicle Sound
+- Fixed Animations Sync
+- Added New Bugs
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 * Update: v16.3 *
 
