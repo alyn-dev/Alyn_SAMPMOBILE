@@ -2,16 +2,31 @@
     {
         "imageUrl": "https://alynsampmobile.pro/images/p_image1.png",
         "title": "Special Game UI",
-        "subtitle": "Customize the UI as your own!"
+        "subtitle": "Customize the UI as your own, you can control the chat and more!"
     },
     {
         "imageUrl": "https://alynsampmobile.pro/images/p_image2.jpg",
-        "title": "Monetloader Support",
-        "subtitle": "Feel the power of lua scripts!"
+        "title": "Animations",
+        "subtitle": "Animations are synced with other Players!"
     },
     {
-        "imageUrl": "https://alynsampmobile.pro/images/p_image3.png",
-        "title": "PC Features",
-        "subtitle": "We support 90% of PC features!"
+        "imageUrl": "https://alynsampmobile.pro/images/p_image3.jpg",
+        "title": "Voice Chat",
+        "subtitle": "You can use Voice chatting in servers that supports it."
+    },
+    {
+        "imageUrl": "https://alynsampmobile.pro/images/p_image4.jpg",
+        "title": "Offline Mode",
+        "subtitle": "You can enter GTA:SA Offline!"
+    },
+    {
+        "imageUrl": "https://alynsampmobile.pro/images/p_image5.jpg",
+        "title": "Drive By",
+        "subtitle": "You can Drive-By like PC."
+    },
+    {
+        "imageUrl": "https://alynsampmobile.pro/images/p_image6.png",
+        "title": "Edit-Object",
+        "subtitle": "You can edit Objects/Toys!"
     }
 ]
