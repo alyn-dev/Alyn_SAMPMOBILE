@@ -1,8 +1,21 @@
 * Update: v16.5 *
 
 Launcher:
+- Removed Monetloader/Cleo/AML/Modloader (until we fix them)
+- Changed Package To ro.alynsampmobile.launcher (same as google play app)
+
+Game: 
+- Fixed keyboard
+- Fixed buttonpanel touch
+- Removed doubletap on chat
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+* Update: v16.5 (beta) *
+
+Launcher:
 - New UI Design
-- Added GTA:SA Offline Mode
+- Added GTA: SA Offline Mode
 - Performance Optimization
 - Removed Monetloader/Cleo/Modloader
 - Changed Package To ro.alyn_sampmobile.launcher
@@ -19,7 +32,6 @@ Game:
 - Fixed Voice Chat
 - Fixed Vehicle Sound
 - Fixed Animations Sync
-- Added New Bugs
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
