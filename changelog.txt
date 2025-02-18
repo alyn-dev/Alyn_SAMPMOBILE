@@ -1,3 +1,17 @@
+* Update: v16.6 *
+
+Launcher:
+- Fixed some crashes
+
+Game: 
+- Fixed spawn Crash
+- Fixed pickups
+- Fixed buttons touch
+- Fixed dialog
+- Fixed keyboard
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.5 *
 
 Launcher:
@@ -5,8 +19,6 @@ Launcher:
 - Changed Package To ro.alynsampmobile.launcher (same as google play app)
 
 Game: 
-- Fixed keyboard
-- Fixed buttonpanel touch
 - Removed doubletap on chat
 
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
