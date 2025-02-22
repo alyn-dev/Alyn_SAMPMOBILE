@@ -1,3 +1,11 @@
+* Update: v16.8 *
+
+Game: 
+- Fixed crashes
+- Fixed bullet sync
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.7 *
 
 Launcher:
