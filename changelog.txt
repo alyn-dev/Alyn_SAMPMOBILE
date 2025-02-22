@@ -1,5 +1,8 @@
 * Update: v16.8 *
 
+Launcher:
+- Added font size setting
+
 Game: 
 - Fixed crashes
 - Fixed bullet sync
