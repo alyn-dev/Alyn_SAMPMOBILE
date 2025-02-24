@@ -4,6 +4,6 @@
     "game_version": "16.8",
     "list_url": "https://alynsampmobile.pro/data/list.json",
     "samp_list_url": "https://alynsampmobile.pro/data/samp_list.json",
-    "full_list_url": "https://alynsampmobile.pro/data/full_list.json",
-    "lite_list_url": "https://alynsampmobile.pro/data/lite_list.json"
+    "full_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/full_list.json",
+    "lite_list_url": "https://content.unisamp-mobile.com/jmobile_cache/mobile/cache/lite_list.json"
 }
