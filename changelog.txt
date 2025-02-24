@@ -1,3 +1,13 @@
+* Update: v16.9 *
+
+Launcher:
+- Fixed crash when pressing connect/play on some devices
+
+Game: 
+- Fixed crashes
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.8 *
 
 Launcher:
