@@ -1,3 +1,14 @@
+* Update: v17.0 *
+
+Launcher:
+- Fixed game files update
+
+Game: 
+- Fixed crashes
+- Completed cuffed animation
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v16.9 *
 
 Launcher:

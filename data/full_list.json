@@ -1,2328 +1,2251 @@
 {
-  "files": [
-      {
-          "name": "anim.img",
-          "size": "10942464",
-          "path": "anim/anim.img",
-          "url": "https://files.alynsampmobile.pro/data/files/anim/anim.img",
-          "gpu": "all"
-      },
-      {
-          "name": "cuts.img",
-          "size": "270096384",
-          "path": "anim/cuts.img",
-          "url": "https://files.alynsampmobile.pro/data/files/anim/cuts.img",
-          "gpu": "all"
-      },
-      {
-          "name": "ped.ifp",
-          "size": "1433248",
-          "path": "anim/ped.ifp",
-          "url": "https://files.alynsampmobile.pro/data/files/anim/ped.ifp",
-          "gpu": "all"
-      },
-      {
-          "name": "AudioEventHistory.txt",
-          "size": "114056",
-          "path": "audio/CONFIG/AudioEventHistory.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/AudioEventHistory.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "BankLkup.dat",
-          "size": "8520",
-          "path": "audio/CONFIG/BankLkup.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/BankLkup.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "BankSlot.dat",
-          "size": "216902",
-          "path": "audio/CONFIG/BankSlot.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/BankSlot.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "EventVol.dat",
-          "size": "45402",
-          "path": "audio/CONFIG/EventVol.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/EventVol.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "PakFiles.dat",
-          "size": "468",
-          "path": "audio/CONFIG/PakFiles.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/PakFiles.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "SOUNDINF.DAT",
-          "size": "746760",
-          "path": "audio/CONFIG/SOUNDINF.DAT",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/SOUNDINF.DAT",
-          "gpu": "all"
-      },
-      {
-          "name": "StrmPaks.dat",
-          "size": "272",
-          "path": "audio/CONFIG/StrmPaks.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/StrmPaks.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "TRKHEAD.DAT",
-          "size": "15506696",
-          "path": "audio/CONFIG/TRKHEAD.DAT",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/TRKHEAD.DAT",
-          "gpu": "all"
-      },
-      {
-          "name": "TrakLkup.dat",
-          "size": "23064",
-          "path": "audio/CONFIG/TrakLkup.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/CONFIG/TrakLkup.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "FEET.osw",
-          "size": "138118",
-          "path": "audio/SFX/FEET.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/FEET.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "FEET.osw.idx",
-          "size": "1220",
-          "path": "audio/SFX/FEET.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/FEET.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "GENRL.osw",
-          "size": "9362373",
-          "path": "audio/SFX/GENRL.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/GENRL.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "GENRL.osw.idx",
-          "size": "20868",
-          "path": "audio/SFX/GENRL.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/GENRL.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "PAIN_A.osw",
-          "size": "3247335",
-          "path": "audio/SFX/PAIN_A.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/PAIN_A.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "PAIN_A.osw.idx",
-          "size": "12836",
-          "path": "audio/SFX/PAIN_A.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/PAIN_A.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SCRIPT.osw",
-          "size": "99239609",
-          "path": "audio/SFX/SCRIPT.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SCRIPT.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SCRIPT.osw.idx",
-          "size": "219236",
-          "path": "audio/SFX/SCRIPT.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SCRIPT.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_EA.osw",
-          "size": "40734626",
-          "path": "audio/SFX/SPC_EA.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_EA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_EA.osw.idx",
-          "size": "116644",
-          "path": "audio/SFX/SPC_EA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_EA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_FA.osw",
-          "size": "35259227",
-          "path": "audio/SFX/SPC_FA.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_FA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_FA.osw.idx",
-          "size": "87716",
-          "path": "audio/SFX/SPC_FA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_FA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_GA.osw",
-          "size": "358311715",
-          "path": "audio/SFX/SPC_GA.osw",
-          "url": "https://github.com/alyn-dev/Alyn_SAMPMOBILE/releases/download/data_files/SPC_GA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_GA.osw.idx",
-          "size": "999492",
-          "path": "audio/SFX/SPC_GA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_GA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_NA.osw",
-          "size": "139343191",
-          "path": "audio/SFX/SPC_NA.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_NA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_NA.osw.idx",
-          "size": "394340",
-          "path": "audio/SFX/SPC_NA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_NA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_PA.osw",
-          "size": "45319767",
-          "path": "audio/SFX/SPC_PA.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_PA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "SPC_PA.osw.idx",
-          "size": "131460",
-          "path": "audio/SFX/SPC_PA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/SFX/SPC_PA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "AA.osw",
-          "size": "2553090",
-          "path": "audio/STREAMS/AA.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/AA.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "AA.osw.idx",
-          "size": "1522",
-          "path": "audio/STREAMS/AA.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/AA.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "ADVERTS.osw",
-          "size": "22094516",
-          "path": "audio/STREAMS/ADVERTS.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/ADVERTS.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "ADVERTS.osw.idx",
-          "size": "1591",
-          "path": "audio/STREAMS/ADVERTS.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/ADVERTS.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "AMBIENCE.osw",
-          "size": "22719112",
-          "path": "audio/STREAMS/AMBIENCE.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/AMBIENCE.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "AMBIENCE.osw.idx",
-          "size": "924",
-          "path": "audio/STREAMS/AMBIENCE.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/AMBIENCE.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "BEATS.osw",
-          "size": "9733284",
-          "path": "audio/STREAMS/BEATS.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/BEATS.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "BEATS.osw.idx",
-          "size": "234",
-          "path": "audio/STREAMS/BEATS.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/BEATS.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "CH.osw",
-          "size": "23643254",
-          "path": "audio/STREAMS/CH.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CH.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "CH.osw.idx",
-          "size": "2994",
-          "path": "audio/STREAMS/CH.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CH.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "CO.osw",
-          "size": "26237012",
-          "path": "audio/STREAMS/CO.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CO.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "CO.osw.idx",
-          "size": "3569",
-          "path": "audio/STREAMS/CO.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CO.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "CR.osw",
-          "size": "28343124",
-          "path": "audio/STREAMS/CR.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CR.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "CR.osw.idx",
-          "size": "3592",
-          "path": "audio/STREAMS/CR.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CR.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "CUTSCENE.osw",
-          "size": "58162442",
-          "path": "audio/STREAMS/CUTSCENE.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CUTSCENE.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "CUTSCENE.osw.idx",
-          "size": "3247",
-          "path": "audio/STREAMS/CUTSCENE.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/CUTSCENE.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "DS.osw",
-          "size": "29491630",
-          "path": "audio/STREAMS/DS.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/DS.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "DS.osw.idx",
-          "size": "4121",
-          "path": "audio/STREAMS/DS.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/DS.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "HC.osw",
-          "size": "29978537",
-          "path": "audio/STREAMS/HC.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/HC.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "HC.osw.idx",
-          "size": "2649",
-          "path": "audio/STREAMS/HC.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/HC.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "MH.osw",
-          "size": "30158819",
-          "path": "audio/STREAMS/MH.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/MH.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "MH.osw.idx",
-          "size": "3500",
-          "path": "audio/STREAMS/MH.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/MH.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "MR.osw",
-          "size": "25951626",
-          "path": "audio/STREAMS/MR.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/MR.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "MR.osw.idx",
-          "size": "3385",
-          "path": "audio/STREAMS/MR.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/MR.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "NJ.osw",
-          "size": "25533874",
-          "path": "audio/STREAMS/NJ.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/NJ.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "NJ.osw.idx",
-          "size": "2994",
-          "path": "audio/STREAMS/NJ.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/NJ.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "RE.osw",
-          "size": "29309761",
-          "path": "audio/STREAMS/RE.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/RE.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "RE.osw.idx",
-          "size": "3707",
-          "path": "audio/STREAMS/RE.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/RE.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "RG.osw",
-          "size": "25485757",
-          "path": "audio/STREAMS/RG.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/RG.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "RG.osw.idx",
-          "size": "3914",
-          "path": "audio/STREAMS/RG.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/RG.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "TK.osw",
-          "size": "42588058",
-          "path": "audio/STREAMS/TK.osw",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/TK.osw",
-          "gpu": "all"
-      },
-      {
-          "name": "TK.osw.idx",
-          "size": "2327",
-          "path": "audio/STREAMS/TK.osw.idx",
-          "url": "https://files.alynsampmobile.pro/data/files/audio/STREAMS/TK.osw.idx",
-          "gpu": "all"
-      },
-      {
-          "name": "360Default1280x720.cfg",
-          "size": "10898",
-          "path": "data/360Default1280x720.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/360Default1280x720.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "360Default960x720.cfg",
-          "size": "10888",
-          "path": "data/360Default960x720.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/360Default960x720.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "Cop.ped",
-          "size": "4908",
-          "path": "data/Decision/Allowed/Cop.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/Cop.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "Fireman.ped",
-          "size": "4435",
-          "path": "data/Decision/Allowed/Fireman.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/Fireman.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "GangMbr.ped",
-          "size": "6194",
-          "path": "data/Decision/Allowed/GangMbr.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/GangMbr.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "Indoors.ped",
-          "size": "2809",
-          "path": "data/Decision/Allowed/Indoors.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/Indoors.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "MISSION.grp",
-          "size": "2758",
-          "path": "data/Decision/Allowed/MISSION.grp",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/MISSION.grp",
-          "gpu": "all"
-      },
-      {
-          "name": "RANDOM.grp",
-          "size": "4623",
-          "path": "data/Decision/Allowed/RANDOM.grp",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/RANDOM.grp",
-          "gpu": "all"
-      },
-      {
-          "name": "RANDOM.ped",
-          "size": "4142",
-          "path": "data/Decision/Allowed/RANDOM.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/RANDOM.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "RANDOM2.grp",
-          "size": "4623",
-          "path": "data/Decision/Allowed/RANDOM2.grp",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/RANDOM2.grp",
-          "gpu": "all"
-      },
-      {
-          "name": "R_Norm.ped",
-          "size": "6450",
-          "path": "data/Decision/Allowed/R_Norm.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/R_Norm.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "R_Tough.ped",
-          "size": "6378",
-          "path": "data/Decision/Allowed/R_Tough.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/R_Tough.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "R_Weak.ped",
-          "size": "6289",
-          "path": "data/Decision/Allowed/R_Weak.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/R_Weak.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_empty.ped",
-          "size": "982",
-          "path": "data/Decision/Allowed/m_empty.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_empty.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_norm.ped",
-          "size": "4142",
-          "path": "data/Decision/Allowed/m_norm.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_norm.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_plyr.ped",
-          "size": "2000",
-          "path": "data/Decision/Allowed/m_plyr.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_plyr.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_steal.ped",
-          "size": "3663",
-          "path": "data/Decision/Allowed/m_steal.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_steal.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_tough.ped",
-          "size": "3980",
-          "path": "data/Decision/Allowed/m_tough.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_tough.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "m_weak.ped",
-          "size": "4062",
-          "path": "data/Decision/Allowed/m_weak.ped",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/Allowed/m_weak.ped",
-          "gpu": "all"
-      },
-      {
-          "name": "PedEvent.txt",
-          "size": "1298",
-          "path": "data/Decision/PedEvent.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/data/Decision/PedEvent.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "TouchDefaultPhone3x2.cfg",
-          "size": "10912",
-          "path": "data/TouchDefaultPhone3x2.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/TouchDefaultPhone3x2.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "TouchDefaultPhoneWidescreen.cfg",
-          "size": "10924",
-          "path": "data/TouchDefaultPhoneWidescreen.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/TouchDefaultPhoneWidescreen.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "TouchDefaultTablet4x3.cfg",
-          "size": "10926",
-          "path": "data/TouchDefaultTablet4x3.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/TouchDefaultTablet4x3.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "TouchDefaultTabletWidescreen.cfg",
-          "size": "10923",
-          "path": "data/TouchDefaultTabletWidescreen.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/TouchDefaultTabletWidescreen.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "animgrp.dat",
-          "size": "3096",
-          "path": "data/animgrp.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/animgrp.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "ar_stats.dat",
-          "size": "3593",
-          "path": "data/ar_stats.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/ar_stats.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "carcols.dat",
-          "size": "15361",
-          "path": "data/carcols.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/carcols.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "cargrp.dat",
-          "size": "3963",
-          "path": "data/cargrp.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/cargrp.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "carmods.dat",
-          "size": "9110",
-          "path": "data/carmods.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/carmods.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "clothes.dat",
-          "size": "5317",
-          "path": "data/clothes.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/clothes.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "colorcycle.dat",
-          "size": "13612",
-          "path": "data/colorcycle.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/colorcycle.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "default.dat",
-          "size": "577",
-          "path": "data/default.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/default.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "default.ide",
-          "size": "4679",
-          "path": "data/default.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/default.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "fonts.dat",
-          "size": "3576",
-          "path": "data/fonts.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/fonts.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "furnitur.dat",
-          "size": "16480",
-          "path": "data/furnitur.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/furnitur.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "gridref.dat",
-          "size": "1498",
-          "path": "data/gridref.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/gridref.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "gta.dat",
-          "size": "3776",
-          "path": "data/gta.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/gta.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "handling.cfg",
-          "size": "64532",
-          "path": "data/handling.cfg",
-          "url": "https://files.alynsampmobile.pro/data/files/data/handling.cfg",
-          "gpu": "all"
-      },
-      {
-          "name": "info.zon",
-          "size": "28139",
-          "path": "data/info.zon",
-          "url": "https://files.alynsampmobile.pro/data/files/data/info.zon",
-          "gpu": "all"
-      },
-      {
-          "name": "map.zon",
-          "size": "436",
-          "path": "data/map.zon",
-          "url": "https://files.alynsampmobile.pro/data/files/data/map.zon",
-          "gpu": "all"
-      },
-      {
-          "name": "Audiozon.ipl",
-          "size": "10802",
-          "path": "data/maps/Audiozon.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/Audiozon.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAe.ide",
-          "size": "12249",
-          "path": "data/maps/LA/LAe.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAe.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAe.ipl",
-          "size": "27328",
-          "path": "data/maps/LA/LAe.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAe.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAe2.ide",
-          "size": "21907",
-          "path": "data/maps/LA/LAe2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAe2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAe2.ipl",
-          "size": "33651",
-          "path": "data/maps/LA/LAe2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAe2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAhills.ide",
-          "size": "10601",
-          "path": "data/maps/LA/LAhills.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAhills.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAhills.ipl",
-          "size": "34506",
-          "path": "data/maps/LA/LAhills.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAhills.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAn.ide",
-          "size": "11107",
-          "path": "data/maps/LA/LAn.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAn.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAn.ipl",
-          "size": "14264",
-          "path": "data/maps/LA/LAn.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAn.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAn2.ide",
-          "size": "9565",
-          "path": "data/maps/LA/LAn2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAn2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAn2.ipl",
-          "size": "13185",
-          "path": "data/maps/LA/LAn2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAn2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAs.ide",
-          "size": "12575",
-          "path": "data/maps/LA/LAs.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAs.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAs.ipl",
-          "size": "22414",
-          "path": "data/maps/LA/LAs.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAs.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAs2.ide",
-          "size": "12364",
-          "path": "data/maps/LA/LAs2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAs2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAs2.ipl",
-          "size": "38441",
-          "path": "data/maps/LA/LAs2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAs2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAw.ide",
-          "size": "9412",
-          "path": "data/maps/LA/LAw.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAw.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAw.ipl",
-          "size": "15105",
-          "path": "data/maps/LA/LAw.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAw.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAw2.ide",
-          "size": "11060",
-          "path": "data/maps/LA/LAw2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAw2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LAw2.ipl",
-          "size": "18232",
-          "path": "data/maps/LA/LAw2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAw2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "LAxref.ide",
-          "size": "10477",
-          "path": "data/maps/LA/LAxref.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LAxref.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LaWn.ide",
-          "size": "13092",
-          "path": "data/maps/LA/LaWn.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LaWn.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "LaWn.ipl",
-          "size": "24330",
-          "path": "data/maps/LA/LaWn.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/LA/LaWn.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFSe.ide",
-          "size": "30227",
-          "path": "data/maps/SF/SFSe.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFSe.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "SFSe.ipl",
-          "size": "53359",
-          "path": "data/maps/SF/SFSe.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFSe.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFe.ide",
-          "size": "16224",
-          "path": "data/maps/SF/SFe.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFe.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "SFe.ipl",
-          "size": "26707",
-          "path": "data/maps/SF/SFe.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFe.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFn.ide",
-          "size": "11219",
-          "path": "data/maps/SF/SFn.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFn.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "SFn.ipl",
-          "size": "26201",
-          "path": "data/maps/SF/SFn.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFn.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFs.ide",
-          "size": "18948",
-          "path": "data/maps/SF/SFs.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFs.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "SFs.ipl",
-          "size": "37969",
-          "path": "data/maps/SF/SFs.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFs.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFw.ide",
-          "size": "16473",
-          "path": "data/maps/SF/SFw.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFw.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "SFw.ipl",
-          "size": "29247",
-          "path": "data/maps/SF/SFw.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFw.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "SFxref.ide",
-          "size": "4631",
-          "path": "data/maps/SF/SFxref.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/SF/SFxref.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countn2.ide",
-          "size": "35439",
-          "path": "data/maps/country/countn2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countn2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countn2.ipl",
-          "size": "41665",
-          "path": "data/maps/country/countn2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countn2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "countryN.ide",
-          "size": "11308",
-          "path": "data/maps/country/countryN.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryN.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countryN.ipl",
-          "size": "14407",
-          "path": "data/maps/country/countryN.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryN.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "countryS.ide",
-          "size": "18450",
-          "path": "data/maps/country/countryS.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryS.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countryS.ipl",
-          "size": "33835",
-          "path": "data/maps/country/countryS.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryS.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "countryW.ide",
-          "size": "19704",
-          "path": "data/maps/country/countryW.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryW.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countrye.ide",
-          "size": "34529",
-          "path": "data/maps/country/countrye.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countrye.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "countrye.ipl",
-          "size": "49301",
-          "path": "data/maps/country/countrye.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countrye.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "countryw.ipl",
-          "size": "35057",
-          "path": "data/maps/country/countryw.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/countryw.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "counxref.ide",
-          "size": "8494",
-          "path": "data/maps/country/counxref.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/country/counxref.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "cull.ipl",
-          "size": "104318",
-          "path": "data/maps/cull.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/cull.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "barriers.ide",
-          "size": "1437",
-          "path": "data/maps/generic/barriers.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/barriers.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "dynamic.ide",
-          "size": "4611",
-          "path": "data/maps/generic/dynamic.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/dynamic.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "dynamic2.ide",
-          "size": "10510",
-          "path": "data/maps/generic/dynamic2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/dynamic2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "multiobj.ide",
-          "size": "5020",
-          "path": "data/maps/generic/multiobj.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/multiobj.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "procobj.ide",
-          "size": "4755",
-          "path": "data/maps/generic/procobj.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/procobj.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "vegepart.ide",
-          "size": "8062",
-          "path": "data/maps/generic/vegepart.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/generic/vegepart.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int1.ide",
-          "size": "2747",
-          "path": "data/maps/interior/gen_int1.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int1.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int1.ipl",
-          "size": "21074",
-          "path": "data/maps/interior/gen_int1.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int1.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int2.ide",
-          "size": "10941",
-          "path": "data/maps/interior/gen_int2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int2.ipl",
-          "size": "1683",
-          "path": "data/maps/interior/gen_int2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int3.ide",
-          "size": "3252",
-          "path": "data/maps/interior/gen_int3.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int3.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int3.ipl",
-          "size": "2091",
-          "path": "data/maps/interior/gen_int3.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int3.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int4.ide",
-          "size": "2323",
-          "path": "data/maps/interior/gen_int4.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int4.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int4.ipl",
-          "size": "1185",
-          "path": "data/maps/interior/gen_int4.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int4.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int5.ide",
-          "size": "4682",
-          "path": "data/maps/interior/gen_int5.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int5.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_int5.ipl",
-          "size": "2988",
-          "path": "data/maps/interior/gen_int5.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_int5.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_intb.ide",
-          "size": "5459",
-          "path": "data/maps/interior/gen_intb.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_intb.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "gen_intb.ipl",
-          "size": "1626",
-          "path": "data/maps/interior/gen_intb.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/gen_intb.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "int_LA.ide",
-          "size": "6004",
-          "path": "data/maps/interior/int_LA.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_LA.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "int_LA.ipl",
-          "size": "1312",
-          "path": "data/maps/interior/int_LA.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_LA.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "int_SF.ide",
-          "size": "1260",
-          "path": "data/maps/interior/int_SF.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_SF.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "int_SF.ipl",
-          "size": "1334",
-          "path": "data/maps/interior/int_SF.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_SF.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "int_cont.ide",
-          "size": "385",
-          "path": "data/maps/interior/int_cont.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_cont.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "int_cont.ipl",
-          "size": "910",
-          "path": "data/maps/interior/int_cont.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_cont.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "int_veg.ide",
-          "size": "4684",
-          "path": "data/maps/interior/int_veg.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_veg.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "int_veg.ipl",
-          "size": "5299",
-          "path": "data/maps/interior/int_veg.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/int_veg.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "propext.ide",
-          "size": "2340",
-          "path": "data/maps/interior/propext.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/propext.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "props.ide",
-          "size": "26326",
-          "path": "data/maps/interior/props.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/props.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "props2.ide",
-          "size": "21174",
-          "path": "data/maps/interior/props2.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/props2.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "savehous.ide",
-          "size": "1724",
-          "path": "data/maps/interior/savehous.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/savehous.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "savehous.ipl",
-          "size": "2959",
-          "path": "data/maps/interior/savehous.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/savehous.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "stadint.ide",
-          "size": "2851",
-          "path": "data/maps/interior/stadint.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/stadint.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "stadint.ipl",
-          "size": "6299",
-          "path": "data/maps/interior/stadint.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/interior/stadint.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "leveldes.ide",
-          "size": "360",
-          "path": "data/maps/leveldes/leveldes.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/leveldes.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "leveldes.ipl",
-          "size": "165",
-          "path": "data/maps/leveldes/leveldes.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/leveldes.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "levelmap.ide",
-          "size": "3194",
-          "path": "data/maps/leveldes/levelmap.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/levelmap.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "levelmap.ipl",
-          "size": "4675",
-          "path": "data/maps/leveldes/levelmap.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/levelmap.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "levelxre.ide",
-          "size": "9897",
-          "path": "data/maps/leveldes/levelxre.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/levelxre.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "seabed.ide",
-          "size": "12039",
-          "path": "data/maps/leveldes/seabed.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/seabed.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "seabed.ipl",
-          "size": "23342",
-          "path": "data/maps/leveldes/seabed.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/leveldes/seabed.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "occlu.ipl",
-          "size": "1012",
-          "path": "data/maps/occlu.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/occlu.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "occluLA.ipl",
-          "size": "35956",
-          "path": "data/maps/occluLA.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/occluLA.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "occluint.ipl",
-          "size": "2338",
-          "path": "data/maps/occluint.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/occluint.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "occlusf.ipl",
-          "size": "16114",
-          "path": "data/maps/occlusf.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/occlusf.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "occluveg.ipl",
-          "size": "17944",
-          "path": "data/maps/occluveg.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/occluveg.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "paths.ipl",
-          "size": "2658607",
-          "path": "data/maps/paths.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/paths.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "paths2.ipl",
-          "size": "2292241",
-          "path": "data/maps/paths2.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/paths2.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "paths3.ipl",
-          "size": "2428066",
-          "path": "data/maps/paths3.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/paths3.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "paths4.ipl",
-          "size": "253014",
-          "path": "data/maps/paths4.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/paths4.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "paths5.ipl",
-          "size": "457678",
-          "path": "data/maps/paths5.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/paths5.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "tunnels.ipl",
-          "size": "3230",
-          "path": "data/maps/tunnels.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/tunnels.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "VegasN.ide",
-          "size": "23715",
-          "path": "data/maps/vegas/VegasN.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/VegasN.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "VegasS.ide",
-          "size": "18656",
-          "path": "data/maps/vegas/VegasS.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/VegasS.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "VegasW.ide",
-          "size": "25456",
-          "path": "data/maps/vegas/VegasW.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/VegasW.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "vegasE.ide",
-          "size": "35542",
-          "path": "data/maps/vegas/vegasE.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegasE.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "vegasE.ipl",
-          "size": "61084",
-          "path": "data/maps/vegas/vegasE.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegasE.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "vegasN.ipl",
-          "size": "36651",
-          "path": "data/maps/vegas/vegasN.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegasN.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "vegasS.ipl",
-          "size": "30343",
-          "path": "data/maps/vegas/vegasS.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegasS.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "vegasW.ipl",
-          "size": "49867",
-          "path": "data/maps/vegas/vegasW.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegasW.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "vegaxref.ide",
-          "size": "5751",
-          "path": "data/maps/vegas/vegaxref.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegaxref.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "vegaxref.ipl",
-          "size": "3661",
-          "path": "data/maps/vegas/vegaxref.ipl",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/vegas/vegaxref.ipl",
-          "gpu": "all"
-      },
-      {
-          "name": "veh_mods.ide",
-          "size": "7323",
-          "path": "data/maps/veh_mods/veh_mods.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/maps/veh_mods/veh_mods.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "melee.dat",
-          "size": "6306",
-          "path": "data/melee.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/melee.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "object.dat",
-          "size": "126118",
-          "path": "data/object.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/object.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "ROADBLOX.DAT",
-          "size": "1304",
-          "path": "data/paths/ROADBLOX.DAT",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/ROADBLOX.DAT",
-          "gpu": "all"
-      },
-      {
-          "name": "carrec.img",
-          "size": "2357248",
-          "path": "data/paths/carrec.img",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/carrec.img",
-          "gpu": "all"
-      },
-      {
-          "name": "tracks.dat",
-          "size": "25474",
-          "path": "data/paths/tracks.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/tracks.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "tracks2.dat",
-          "size": "1892",
-          "path": "data/paths/tracks2.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/tracks2.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "tracks3.dat",
-          "size": "8328",
-          "path": "data/paths/tracks3.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/tracks3.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "tracks4.dat",
-          "size": "18347",
-          "path": "data/paths/tracks4.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/paths/tracks4.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "ped.dat",
-          "size": "1276",
-          "path": "data/ped.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/ped.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "pedgrp.dat",
-          "size": "5792",
-          "path": "data/pedgrp.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/pedgrp.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "peds.ide",
-          "size": "33401",
-          "path": "data/peds.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/peds.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "pedstats.dat",
-          "size": "3604",
-          "path": "data/pedstats.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/pedstats.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "plants.dat",
-          "size": "9887",
-          "path": "data/plants.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/plants.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "popcycle.dat",
-          "size": "127108",
-          "path": "data/popcycle.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/popcycle.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "procobj.dat",
-          "size": "10019",
-          "path": "data/procobj.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/procobj.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "shopping.dat",
-          "size": "46875",
-          "path": "data/shopping.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/shopping.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "statdisp.dat",
-          "size": "7292",
-          "path": "data/statdisp.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/statdisp.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "surface.dat",
-          "size": "576",
-          "path": "data/surface.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/surface.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "surfaud.dat",
-          "size": "6530",
-          "path": "data/surfaud.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/surfaud.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "surfinfo.dat",
-          "size": "28106",
-          "path": "data/surfinfo.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/surfinfo.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "timecyc.dat",
-          "size": "40037",
-          "path": "data/timecyc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/timecyc.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "txdcut.ide",
-          "size": "478",
-          "path": "data/txdcut.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/txdcut.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "vehicles.ide",
-          "size": "21093",
-          "path": "data/vehicles.ide",
-          "url": "https://files.alynsampmobile.pro/data/files/data/vehicles.ide",
-          "gpu": "all"
-      },
-      {
-          "name": "water.dat",
-          "size": "70099",
-          "path": "data/water.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/water.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "water1.dat",
-          "size": "60063",
-          "path": "data/water1.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/water1.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "weapon.dat",
-          "size": "11602",
-          "path": "data/weapon.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/data/weapon.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "arial.ttf",
-          "size": "367112",
-          "path": "fonts/arial.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/arial.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "arial_bold.ttf",
-          "size": "352224",
-          "path": "fonts/arial_bold.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/arial_bold.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "georgia.ttf",
-          "size": "219712",
-          "path": "fonts/georgia.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/georgia.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "impact.ttf",
-          "size": "206784",
-          "path": "fonts/impact.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/impact.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "palatino_linotype.ttf",
-          "size": "489884",
-          "path": "fonts/palatino_linotype.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/palatino_linotype.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "quartz_ms.ttf",
-          "size": "51032",
-          "path": "fonts/quartz_ms.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/quartz_ms.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "segoe_print.ttf",
-          "size": "172448",
-          "path": "fonts/segoe_print.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/segoe_print.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "segoe_script.ttf",
-          "size": "620204",
-          "path": "fonts/segoe_script.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/segoe_script.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "tahoma.ttf",
-          "size": "939280",
-          "path": "fonts/tahoma.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/tahoma.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "webdings.ttf",
-          "size": "120560",
-          "path": "fonts/webdings.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/webdings.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "wingding.ttf",
-          "size": "82180",
-          "path": "fonts/wingding.ttf",
-          "url": "https://files.alynsampmobile.pro/data/files/fonts/wingding.ttf",
-          "gpu": "all"
-      },
-      {
-          "name": "peds.col",
-          "size": "21477",
-          "path": "models/coll/peds.col",
-          "url": "https://files.alynsampmobile.pro/data/files/models/coll/peds.col",
-          "gpu": "all"
-      },
-      {
-          "name": "vehicles.col",
-          "size": "1096",
-          "path": "models/coll/vehicles.col",
-          "url": "https://files.alynsampmobile.pro/data/files/models/coll/vehicles.col",
-          "gpu": "all"
-      },
-      {
-          "name": "weapons.col",
-          "size": "560",
-          "path": "models/coll/weapons.col",
-          "url": "https://files.alynsampmobile.pro/data/files/models/coll/weapons.col",
-          "gpu": "all"
-      },
-      {
-          "name": "effects.fxp",
-          "size": "616708",
-          "path": "models/effects.fxp",
-          "url": "https://files.alynsampmobile.pro/data/files/models/effects.fxp",
-          "gpu": "all"
-      },
-      {
-          "name": "stream.ini",
-          "size": "197",
-          "path": "stream.ini",
-          "url": "https://files.alynsampmobile.pro/data/files/stream.ini",
-          "gpu": "all"
-      },
-      {
-          "name": "cutscene.dxt.dat",
-          "size": "5731070",
-          "path": "texdb/cutscene/cutscene.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.dxt.dat",
-          "gpu": "dxt"
-      },
-      {
-          "name": "cutscene.dxt.tmb",
-          "size": "19440",
-          "path": "texdb/cutscene/cutscene.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.dxt.tmb",
-          "gpu": "dxt"
-      },
-      {
-          "name": "cutscene.dxt.toc",
-          "size": "1628",
-          "path": "texdb/cutscene/cutscene.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.dxt.toc",
-          "gpu": "dxt"
-      },
-      {
-          "name": "cutscene.etc.dat",
-          "size": "5482370",
-          "path": "texdb/cutscene/cutscene.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.etc.dat",
-          "gpu": "etc"
-      },
-      {
-          "name": "cutscene.etc.tmb",
-          "size": "20784",
-          "path": "texdb/cutscene/cutscene.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.etc.tmb",
-          "gpu": "etc"
-      },
-      {
-          "name": "cutscene.etc.toc",
-          "size": "1628",
-          "path": "texdb/cutscene/cutscene.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.etc.toc",
-          "gpu": "etc"
-      },
-      {
-          "name": "cutscene.pvr.dat",
-          "size": "3614492",
-          "path": "texdb/cutscene/cutscene.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.pvr.dat",
-          "gpu": "pvr"
-      },
-      {
-          "name": "cutscene.pvr.tmb",
-          "size": "30608",
-          "path": "texdb/cutscene/cutscene.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.pvr.tmb",
-          "gpu": "pvr"
-      },
-      {
-          "name": "cutscene.pvr.toc",
-          "size": "1628",
-          "path": "texdb/cutscene/cutscene.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.pvr.toc",
-          "gpu": "pvr"
-      },
-      {
-          "name": "cutscene.txt",
-          "size": "24626",
-          "path": "texdb/cutscene/cutscene.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "cutscene.unc.tmb",
-          "size": "56304",
-          "path": "texdb/cutscene/cutscene.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene/cutscene.unc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "cutscene.img",
-          "size": "16029696",
-          "path": "texdb/cutscene.img",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/cutscene.img",
-          "gpu": "all"
-      },
-      {
-          "name": "gta3.dxt.dat",
-          "size": "185311596",
-          "path": "texdb/gta3/gta3.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.dxt.dat",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta3.dxt.tmb",
-          "size": "525340",
-          "path": "texdb/gta3/gta3.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.dxt.tmb",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta3.dxt.toc",
-          "size": "49784",
-          "path": "texdb/gta3/gta3.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.dxt.toc",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta3.etc.dat",
-          "size": "185725552",
-          "path": "texdb/gta3/gta3.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.etc.dat",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta3.etc.tmb",
-          "size": "575452",
-          "path": "texdb/gta3/gta3.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.etc.tmb",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta3.etc.toc",
-          "size": "49784",
-          "path": "texdb/gta3/gta3.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.etc.toc",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta3.pvr.dat",
-          "size": "115205762",
-          "path": "texdb/gta3/gta3.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.pvr.dat",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta3.pvr.tmb",
-          "size": "794396",
-          "path": "texdb/gta3/gta3.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.pvr.tmb",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta3.pvr.toc",
-          "size": "49784",
-          "path": "texdb/gta3/gta3.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.pvr.toc",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta3.txt",
-          "size": "792665",
-          "path": "texdb/gta3/gta3.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "gta3.unc.tmb",
-          "size": "1457212",
-          "path": "texdb/gta3/gta3.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3/gta3.unc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "gta3.img",
-          "size": "283521024",
-          "path": "texdb/gta3.img",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta3.img",
-          "gpu": "all"
-      },
-      {
-          "name": "gta_int.dxt.dat",
-          "size": "48496978",
-          "path": "texdb/gta_int/gta_int.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.dxt.dat",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta_int.dxt.tmb",
-          "size": "125994",
-          "path": "texdb/gta_int/gta_int.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.dxt.tmb",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta_int.dxt.toc",
-          "size": "10168",
-          "path": "texdb/gta_int/gta_int.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.dxt.toc",
-          "gpu": "dxt"
-      },
-      {
-          "name": "gta_int.etc.dat",
-          "size": "48441188",
-          "path": "texdb/gta_int/gta_int.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.etc.dat",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta_int.etc.tmb",
-          "size": "141674",
-          "path": "texdb/gta_int/gta_int.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.etc.tmb",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta_int.etc.toc",
-          "size": "10168",
-          "path": "texdb/gta_int/gta_int.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.etc.toc",
-          "gpu": "etc"
-      },
-      {
-          "name": "gta_int.pvr.dat",
-          "size": "29595400",
-          "path": "texdb/gta_int/gta_int.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.pvr.dat",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta_int.pvr.tmb",
-          "size": "188330",
-          "path": "texdb/gta_int/gta_int.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.pvr.tmb",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta_int.pvr.toc",
-          "size": "10168",
-          "path": "texdb/gta_int/gta_int.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.pvr.toc",
-          "gpu": "pvr"
-      },
-      {
-          "name": "gta_int.txt",
-          "size": "159541",
-          "path": "texdb/gta_int/gta_int.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "gta_int.unc.tmb",
-          "size": "352202",
-          "path": "texdb/gta_int/gta_int.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int/gta_int.unc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "gta_int.img",
-          "size": "44836864",
-          "path": "texdb/gta_int.img",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/gta_int.img",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.dxt.dat",
-          "size": "7799478",
-          "path": "texdb/menu/menu.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.dxt.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.dxt.tmb",
-          "size": "860",
-          "path": "texdb/menu/menu.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.dxt.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.dxt.toc",
-          "size": "176",
-          "path": "texdb/menu/menu.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.dxt.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.etc.dat",
-          "size": "10822324",
-          "path": "texdb/menu/menu.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.etc.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.etc.tmb",
-          "size": "860",
-          "path": "texdb/menu/menu.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.etc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.etc.toc",
-          "size": "176",
-          "path": "texdb/menu/menu.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.etc.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.pvr.dat",
-          "size": "10822324",
-          "path": "texdb/menu/menu.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.pvr.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.pvr.tmb",
-          "size": "860",
-          "path": "texdb/menu/menu.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.pvr.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.pvr.toc",
-          "size": "176",
-          "path": "texdb/menu/menu.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.pvr.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.txt",
-          "size": "3342",
-          "path": "texdb/menu/menu.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "menu.unc.tmb",
-          "size": "860",
-          "path": "texdb/menu/menu.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/menu/menu.unc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "mobile.dxt.dat",
-          "size": "7267946",
-          "path": "texdb/mobile/mobile.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.dxt.dat",
-          "gpu": "dxt"
-      },
-      {
-          "name": "mobile.dxt.tmb",
-          "size": "3940",
-          "path": "texdb/mobile/mobile.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.dxt.tmb",
-          "gpu": "dxt"
-      },
-      {
-          "name": "mobile.dxt.toc",
-          "size": "792",
-          "path": "texdb/mobile/mobile.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.dxt.toc",
-          "gpu": "dxt"
-      },
-      {
-          "name": "mobile.etc.dat",
-          "size": "8712314",
-          "path": "texdb/mobile/mobile.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.etc.dat",
-          "gpu": "etc"
-      },
-      {
-          "name": "mobile.etc.tmb",
-          "size": "3940",
-          "path": "texdb/mobile/mobile.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.etc.tmb",
-          "gpu": "etc"
-      },
-      {
-          "name": "mobile.etc.toc",
-          "size": "792",
-          "path": "texdb/mobile/mobile.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.etc.toc",
-          "gpu": "etc"
-      },
-      {
-          "name": "mobile.pvr.dat",
-          "size": "8712314",
-          "path": "texdb/mobile/mobile.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.pvr.dat",
-          "gpu": "pvr"
-      },
-      {
-          "name": "mobile.pvr.tmb",
-          "size": "3940",
-          "path": "texdb/mobile/mobile.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.pvr.tmb",
-          "gpu": "pvr"
-      },
-      {
-          "name": "mobile.pvr.toc",
-          "size": "792",
-          "path": "texdb/mobile/mobile.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.pvr.toc",
-          "gpu": "pvr"
-      },
-      {
-          "name": "mobile.txt",
-          "size": "14502",
-          "path": "texdb/mobile/mobile.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "mobile.unc.tmb",
-          "size": "3940",
-          "path": "texdb/mobile/mobile.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/mobile/mobile.unc.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "player.pvr.dat",
-          "size": "6569414",
-          "path": "texdb/player/player.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/player/player.pvr.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "player.pvr.tmb",
-          "size": "6940",
-          "path": "texdb/player/player.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/player/player.pvr.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "player.pvr.toc",
-          "size": "1580",
-          "path": "texdb/player/player.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/player/player.pvr.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "player.txt",
-          "size": "27810",
-          "path": "texdb/player/player.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/player/player.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "player.img",
-          "size": "16412672",
-          "path": "texdb/player.img",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/player.img",
-          "gpu": "all"
-      },
-      {
-          "name": "playerhi.pvr.dat",
-          "size": "27658902",
-          "path": "texdb/playerhi/playerhi.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/playerhi/playerhi.pvr.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "playerhi.pvr.tmb",
-          "size": "6940",
-          "path": "texdb/playerhi/playerhi.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/playerhi/playerhi.pvr.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "playerhi.pvr.toc",
-          "size": "1580",
-          "path": "texdb/playerhi/playerhi.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/playerhi/playerhi.pvr.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "playerhi.txt",
-          "size": "28087",
-          "path": "texdb/playerhi/playerhi.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/playerhi/playerhi.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "txd.360.dat",
-          "size": "7625578",
-          "path": "texdb/txd/txd.360.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.360.dat",
-          "gpu": "all"
-      },
-      {
-          "name": "txd.360.tmb",
-          "size": "31028",
-          "path": "texdb/txd/txd.360.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.360.tmb",
-          "gpu": "all"
-      },
-      {
-          "name": "txd.360.toc",
-          "size": "2376",
-          "path": "texdb/txd/txd.360.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.360.toc",
-          "gpu": "all"
-      },
-      {
-          "name": "txd.dxt.dat",
-          "size": "7625578",
-          "path": "texdb/txd/txd.dxt.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.dxt.dat",
-          "gpu": "dxt"
-      },
-      {
-          "name": "txd.dxt.tmb",
-          "size": "31028",
-          "path": "texdb/txd/txd.dxt.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.dxt.tmb",
-          "gpu": "dxt"
-      },
-      {
-          "name": "txd.dxt.toc",
-          "size": "2376",
-          "path": "texdb/txd/txd.dxt.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.dxt.toc",
-          "gpu": "dxt"
-      },
-      {
-          "name": "txd.etc.dat",
-          "size": "9422056",
-          "path": "texdb/txd/txd.etc.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.etc.dat",
-          "gpu": "etc"
-      },
-      {
-          "name": "txd.etc.tmb",
-          "size": "49460",
-          "path": "texdb/txd/txd.etc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.etc.tmb",
-          "gpu": "etc"
-      },
-      {
-          "name": "txd.etc.toc",
-          "size": "2376",
-          "path": "texdb/txd/txd.etc.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.etc.toc",
-          "gpu": "etc"
-      },
-      {
-          "name": "txd.pvr.dat",
-          "size": "7716880",
-          "path": "texdb/txd/txd.pvr.dat",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.pvr.dat",
-          "gpu": "pvr"
-      },
-      {
-          "name": "txd.pvr.tmb",
-          "size": "25204",
-          "path": "texdb/txd/txd.pvr.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.pvr.tmb",
-          "gpu": "pvr"
-      },
-      {
-          "name": "txd.pvr.toc",
-          "size": "2376",
-          "path": "texdb/txd/txd.pvr.toc",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.pvr.toc",
-          "gpu": "pvr"
-      },
-      {
-          "name": "txd.txt",
-          "size": "43193",
-          "path": "texdb/txd/txd.txt",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.txt",
-          "gpu": "all"
-      },
-      {
-          "name": "txd.unc.tmb",
-          "size": "59636",
-          "path": "texdb/txd/txd.unc.tmb",
-          "url": "https://files.alynsampmobile.pro/data/files/texdb/txd/txd.unc.tmb",
-          "gpu": "all"
-      }
-  ]
+    "files": [
+        {
+            "name": "anim.img",
+            "size": "10942464",
+            "path": "anim\/anim.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/anim\/anim.img",
+            "gpu": "all"
+        },
+        {
+            "name": "cuts.img",
+            "size": "270096384",
+            "path": "anim\/cuts.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/anim\/cuts.img",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.ifp",
+            "size": "1433248",
+            "path": "anim\/ped.ifp",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/anim\/ped.ifp",
+            "gpu": "all"
+        },
+        {
+            "name": "AudioEventHistory.txt",
+            "size": "114056",
+            "path": "audio\/CONFIG\/AudioEventHistory.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/AudioEventHistory.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "BankLkup.dat",
+            "size": "8520",
+            "path": "audio\/CONFIG\/BankLkup.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/BankLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "BankSlot.dat",
+            "size": "216902",
+            "path": "audio\/CONFIG\/BankSlot.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/BankSlot.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "EventVol.dat",
+            "size": "45402",
+            "path": "audio\/CONFIG\/EventVol.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/EventVol.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "PakFiles.dat",
+            "size": "468",
+            "path": "audio\/CONFIG\/PakFiles.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/PakFiles.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "SOUNDINF.DAT",
+            "size": "746760",
+            "path": "audio\/CONFIG\/SOUNDINF.DAT",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/SOUNDINF.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "StrmPaks.dat",
+            "size": "272",
+            "path": "audio\/CONFIG\/StrmPaks.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/StrmPaks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "TRKHEAD.DAT",
+            "size": "15506696",
+            "path": "audio\/CONFIG\/TRKHEAD.DAT",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/TRKHEAD.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "TrakLkup.dat",
+            "size": "23064",
+            "path": "audio\/CONFIG\/TrakLkup.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/CONFIG\/TrakLkup.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw",
+            "size": "138118",
+            "path": "audio\/SFX\/FEET.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/FEET.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "FEET.osw.idx",
+            "size": "1220",
+            "path": "audio\/SFX\/FEET.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/FEET.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw",
+            "size": "9362373",
+            "path": "audio\/SFX\/GENRL.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/GENRL.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "GENRL.osw.idx",
+            "size": "20868",
+            "path": "audio\/SFX\/GENRL.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/GENRL.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw",
+            "size": "3247335",
+            "path": "audio\/SFX\/PAIN_A.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/PAIN_A.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "PAIN_A.osw.idx",
+            "size": "12836",
+            "path": "audio\/SFX\/PAIN_A.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/PAIN_A.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SCRIPT.osw",
+            "size": "99239609",
+            "path": "audio\/SFX\/SCRIPT.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SCRIPT.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SCRIPT.osw.idx",
+            "size": "219236",
+            "path": "audio\/SFX\/SCRIPT.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SCRIPT.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_EA.osw",
+            "size": "40734626",
+            "path": "audio\/SFX\/SPC_EA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_EA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_EA.osw.idx",
+            "size": "116644",
+            "path": "audio\/SFX\/SPC_EA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_EA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_FA.osw",
+            "size": "35259227",
+            "path": "audio\/SFX\/SPC_FA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_FA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_FA.osw.idx",
+            "size": "87716",
+            "path": "audio\/SFX\/SPC_FA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_FA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_GA.osw",
+            "size": "358311715",
+            "path": "audio\/SFX\/SPC_GA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_GA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_GA.osw.idx",
+            "size": "999492",
+            "path": "audio\/SFX\/SPC_GA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_GA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_NA.osw",
+            "size": "139343191",
+            "path": "audio\/SFX\/SPC_NA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_NA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_NA.osw.idx",
+            "size": "394340",
+            "path": "audio\/SFX\/SPC_NA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_NA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_PA.osw",
+            "size": "45319767",
+            "path": "audio\/SFX\/SPC_PA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_PA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "SPC_PA.osw.idx",
+            "size": "131460",
+            "path": "audio\/SFX\/SPC_PA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/SFX\/SPC_PA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw",
+            "size": "2553090",
+            "path": "audio\/STREAMS\/AA.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/AA.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AA.osw.idx",
+            "size": "1522",
+            "path": "audio\/STREAMS\/AA.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/AA.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw",
+            "size": "22094516",
+            "path": "audio\/STREAMS\/ADVERTS.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/ADVERTS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "ADVERTS.osw.idx",
+            "size": "1591",
+            "path": "audio\/STREAMS\/ADVERTS.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/ADVERTS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw",
+            "size": "22719112",
+            "path": "audio\/STREAMS\/AMBIENCE.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/AMBIENCE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "AMBIENCE.osw.idx",
+            "size": "924",
+            "path": "audio\/STREAMS\/AMBIENCE.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/AMBIENCE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw",
+            "size": "9733284",
+            "path": "audio\/STREAMS\/BEATS.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/BEATS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "BEATS.osw.idx",
+            "size": "234",
+            "path": "audio\/STREAMS\/BEATS.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/BEATS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw",
+            "size": "23643254",
+            "path": "audio\/STREAMS\/CH.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CH.osw.idx",
+            "size": "2994",
+            "path": "audio\/STREAMS\/CH.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw",
+            "size": "26237012",
+            "path": "audio\/STREAMS\/CO.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CO.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CO.osw.idx",
+            "size": "3569",
+            "path": "audio\/STREAMS\/CO.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CO.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw",
+            "size": "28343124",
+            "path": "audio\/STREAMS\/CR.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CR.osw.idx",
+            "size": "3592",
+            "path": "audio\/STREAMS\/CR.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw",
+            "size": "58162442",
+            "path": "audio\/STREAMS\/CUTSCENE.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CUTSCENE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "CUTSCENE.osw.idx",
+            "size": "3247",
+            "path": "audio\/STREAMS\/CUTSCENE.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/CUTSCENE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw",
+            "size": "29491630",
+            "path": "audio\/STREAMS\/DS.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/DS.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "DS.osw.idx",
+            "size": "4121",
+            "path": "audio\/STREAMS\/DS.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/DS.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw",
+            "size": "29978537",
+            "path": "audio\/STREAMS\/HC.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/HC.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "HC.osw.idx",
+            "size": "2649",
+            "path": "audio\/STREAMS\/HC.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/HC.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw",
+            "size": "30158819",
+            "path": "audio\/STREAMS\/MH.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/MH.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MH.osw.idx",
+            "size": "3500",
+            "path": "audio\/STREAMS\/MH.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/MH.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw",
+            "size": "25951626",
+            "path": "audio\/STREAMS\/MR.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/MR.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "MR.osw.idx",
+            "size": "3385",
+            "path": "audio\/STREAMS\/MR.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/MR.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw",
+            "size": "25533874",
+            "path": "audio\/STREAMS\/NJ.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/NJ.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "NJ.osw.idx",
+            "size": "2994",
+            "path": "audio\/STREAMS\/NJ.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/NJ.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw",
+            "size": "29309761",
+            "path": "audio\/STREAMS\/RE.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/RE.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RE.osw.idx",
+            "size": "3707",
+            "path": "audio\/STREAMS\/RE.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/RE.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw",
+            "size": "25485757",
+            "path": "audio\/STREAMS\/RG.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/RG.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "RG.osw.idx",
+            "size": "3914",
+            "path": "audio\/STREAMS\/RG.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/RG.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw",
+            "size": "42588058",
+            "path": "audio\/STREAMS\/TK.osw",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/TK.osw",
+            "gpu": "all"
+        },
+        {
+            "name": "TK.osw.idx",
+            "size": "2327",
+            "path": "audio\/STREAMS\/TK.osw.idx",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/audio\/STREAMS\/TK.osw.idx",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default1280x720.cfg",
+            "size": "10898",
+            "path": "data\/360Default1280x720.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/360Default1280x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "360Default960x720.cfg",
+            "size": "10888",
+            "path": "data\/360Default960x720.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/360Default960x720.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "Cop.ped",
+            "size": "4908",
+            "path": "data\/Decision\/Allowed\/Cop.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/Cop.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Fireman.ped",
+            "size": "4435",
+            "path": "data\/Decision\/Allowed\/Fireman.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/Fireman.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "GangMbr.ped",
+            "size": "6194",
+            "path": "data\/Decision\/Allowed\/GangMbr.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/GangMbr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "Indoors.ped",
+            "size": "2809",
+            "path": "data\/Decision\/Allowed\/Indoors.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/Indoors.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "MISSION.grp",
+            "size": "2758",
+            "path": "data\/Decision\/Allowed\/MISSION.grp",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/MISSION.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.grp",
+            "size": "4623",
+            "path": "data\/Decision\/Allowed\/RANDOM.grp",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/RANDOM.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM.ped",
+            "size": "4142",
+            "path": "data\/Decision\/Allowed\/RANDOM.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/RANDOM.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "RANDOM2.grp",
+            "size": "4623",
+            "path": "data\/Decision\/Allowed\/RANDOM2.grp",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/RANDOM2.grp",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Norm.ped",
+            "size": "6450",
+            "path": "data\/Decision\/Allowed\/R_Norm.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/R_Norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Tough.ped",
+            "size": "6378",
+            "path": "data\/Decision\/Allowed\/R_Tough.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/R_Tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "R_Weak.ped",
+            "size": "6289",
+            "path": "data\/Decision\/Allowed\/R_Weak.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/R_Weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_empty.ped",
+            "size": "982",
+            "path": "data\/Decision\/Allowed\/m_empty.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_empty.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_norm.ped",
+            "size": "4142",
+            "path": "data\/Decision\/Allowed\/m_norm.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_norm.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_plyr.ped",
+            "size": "2000",
+            "path": "data\/Decision\/Allowed\/m_plyr.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_plyr.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_steal.ped",
+            "size": "3663",
+            "path": "data\/Decision\/Allowed\/m_steal.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_steal.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_tough.ped",
+            "size": "3980",
+            "path": "data\/Decision\/Allowed\/m_tough.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_tough.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "m_weak.ped",
+            "size": "4062",
+            "path": "data\/Decision\/Allowed\/m_weak.ped",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/Allowed\/m_weak.ped",
+            "gpu": "all"
+        },
+        {
+            "name": "PedEvent.txt",
+            "size": "1298",
+            "path": "data\/Decision\/PedEvent.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/Decision\/PedEvent.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhone3x2.cfg",
+            "size": "10912",
+            "path": "data\/TouchDefaultPhone3x2.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/TouchDefaultPhone3x2.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultPhoneWidescreen.cfg",
+            "size": "10924",
+            "path": "data\/TouchDefaultPhoneWidescreen.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/TouchDefaultPhoneWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTablet4x3.cfg",
+            "size": "10926",
+            "path": "data\/TouchDefaultTablet4x3.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/TouchDefaultTablet4x3.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "TouchDefaultTabletWidescreen.cfg",
+            "size": "10923",
+            "path": "data\/TouchDefaultTabletWidescreen.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/TouchDefaultTabletWidescreen.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "animgrp.dat",
+            "size": "3096",
+            "path": "data\/animgrp.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/animgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ar_stats.dat",
+            "size": "3593",
+            "path": "data\/ar_stats.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/ar_stats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carcols.dat",
+            "size": "15361",
+            "path": "data\/carcols.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/carcols.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "cargrp.dat",
+            "size": "3963",
+            "path": "data\/cargrp.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/cargrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "carmods.dat",
+            "size": "9110",
+            "path": "data\/carmods.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/carmods.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "clothes.dat",
+            "size": "5317",
+            "path": "data\/clothes.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/clothes.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "colorcycle.dat",
+            "size": "13612",
+            "path": "data\/colorcycle.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/colorcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.dat",
+            "size": "577",
+            "path": "data\/default.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/default.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "default.ide",
+            "size": "4679",
+            "path": "data\/default.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/default.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "fonts.dat",
+            "size": "3576",
+            "path": "data\/fonts.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/fonts.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "furnitur.dat",
+            "size": "16480",
+            "path": "data\/furnitur.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/furnitur.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gridref.dat",
+            "size": "1498",
+            "path": "data\/gridref.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/gridref.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "gta.dat",
+            "size": "3776",
+            "path": "data\/gta.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/gta.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "handling.cfg",
+            "size": "64532",
+            "path": "data\/handling.cfg",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/handling.cfg",
+            "gpu": "all"
+        },
+        {
+            "name": "info.zon",
+            "size": "28139",
+            "path": "data\/info.zon",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/info.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "map.zon",
+            "size": "436",
+            "path": "data\/map.zon",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/map.zon",
+            "gpu": "all"
+        },
+        {
+            "name": "Audiozon.ipl",
+            "size": "10802",
+            "path": "data\/maps\/Audiozon.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/Audiozon.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ide",
+            "size": "12249",
+            "path": "data\/maps\/LA\/LAe.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe.ipl",
+            "size": "27328",
+            "path": "data\/maps\/LA\/LAe.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ide",
+            "size": "21907",
+            "path": "data\/maps\/LA\/LAe2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAe2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAe2.ipl",
+            "size": "33651",
+            "path": "data\/maps\/LA\/LAe2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAe2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ide",
+            "size": "10601",
+            "path": "data\/maps\/LA\/LAhills.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAhills.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAhills.ipl",
+            "size": "34506",
+            "path": "data\/maps\/LA\/LAhills.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAhills.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ide",
+            "size": "11107",
+            "path": "data\/maps\/LA\/LAn.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn.ipl",
+            "size": "14264",
+            "path": "data\/maps\/LA\/LAn.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ide",
+            "size": "9565",
+            "path": "data\/maps\/LA\/LAn2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAn2.ipl",
+            "size": "13185",
+            "path": "data\/maps\/LA\/LAn2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ide",
+            "size": "12575",
+            "path": "data\/maps\/LA\/LAs.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs.ipl",
+            "size": "22414",
+            "path": "data\/maps\/LA\/LAs.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ide",
+            "size": "12364",
+            "path": "data\/maps\/LA\/LAs2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAs2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAs2.ipl",
+            "size": "38441",
+            "path": "data\/maps\/LA\/LAs2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAs2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ide",
+            "size": "9412",
+            "path": "data\/maps\/LA\/LAw.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw.ipl",
+            "size": "15105",
+            "path": "data\/maps\/LA\/LAw.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ide",
+            "size": "11060",
+            "path": "data\/maps\/LA\/LAw2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAw2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LAw2.ipl",
+            "size": "18232",
+            "path": "data\/maps\/LA\/LAw2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAw2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "LAxref.ide",
+            "size": "10477",
+            "path": "data\/maps\/LA\/LAxref.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LAxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ide",
+            "size": "13092",
+            "path": "data\/maps\/LA\/LaWn.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LaWn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "LaWn.ipl",
+            "size": "24330",
+            "path": "data\/maps\/LA\/LaWn.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/LA\/LaWn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ide",
+            "size": "30227",
+            "path": "data\/maps\/SF\/SFSe.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFSe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFSe.ipl",
+            "size": "53359",
+            "path": "data\/maps\/SF\/SFSe.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFSe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ide",
+            "size": "16224",
+            "path": "data\/maps\/SF\/SFe.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFe.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFe.ipl",
+            "size": "26707",
+            "path": "data\/maps\/SF\/SFe.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFe.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ide",
+            "size": "11219",
+            "path": "data\/maps\/SF\/SFn.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFn.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFn.ipl",
+            "size": "26201",
+            "path": "data\/maps\/SF\/SFn.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFn.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ide",
+            "size": "18948",
+            "path": "data\/maps\/SF\/SFs.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFs.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFs.ipl",
+            "size": "37969",
+            "path": "data\/maps\/SF\/SFs.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFs.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ide",
+            "size": "16473",
+            "path": "data\/maps\/SF\/SFw.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFw.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "SFw.ipl",
+            "size": "29247",
+            "path": "data\/maps\/SF\/SFw.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "SFxref.ide",
+            "size": "4631",
+            "path": "data\/maps\/SF\/SFxref.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/SF\/SFxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ide",
+            "size": "35439",
+            "path": "data\/maps\/country\/countn2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countn2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countn2.ipl",
+            "size": "41665",
+            "path": "data\/maps\/country\/countn2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countn2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ide",
+            "size": "11308",
+            "path": "data\/maps\/country\/countryN.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryN.ipl",
+            "size": "14407",
+            "path": "data\/maps\/country\/countryN.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ide",
+            "size": "18450",
+            "path": "data\/maps\/country\/countryS.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countryS.ipl",
+            "size": "33835",
+            "path": "data\/maps\/country\/countryS.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryW.ide",
+            "size": "19704",
+            "path": "data\/maps\/country\/countryW.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ide",
+            "size": "34529",
+            "path": "data\/maps\/country\/countrye.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countrye.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "countrye.ipl",
+            "size": "49301",
+            "path": "data\/maps\/country\/countrye.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countrye.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "countryw.ipl",
+            "size": "35057",
+            "path": "data\/maps\/country\/countryw.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/countryw.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "counxref.ide",
+            "size": "8494",
+            "path": "data\/maps\/country\/counxref.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/country\/counxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "cull.ipl",
+            "size": "104318",
+            "path": "data\/maps\/cull.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/cull.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "barriers.ide",
+            "size": "1437",
+            "path": "data\/maps\/generic\/barriers.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/barriers.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic.ide",
+            "size": "4611",
+            "path": "data\/maps\/generic\/dynamic.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/dynamic.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "dynamic2.ide",
+            "size": "10510",
+            "path": "data\/maps\/generic\/dynamic2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/dynamic2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "multiobj.ide",
+            "size": "5020",
+            "path": "data\/maps\/generic\/multiobj.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/multiobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.ide",
+            "size": "4755",
+            "path": "data\/maps\/generic\/procobj.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/procobj.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegepart.ide",
+            "size": "8062",
+            "path": "data\/maps\/generic\/vegepart.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/generic\/vegepart.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ide",
+            "size": "2747",
+            "path": "data\/maps\/interior\/gen_int1.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int1.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int1.ipl",
+            "size": "21074",
+            "path": "data\/maps\/interior\/gen_int1.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int1.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ide",
+            "size": "10941",
+            "path": "data\/maps\/interior\/gen_int2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int2.ipl",
+            "size": "1683",
+            "path": "data\/maps\/interior\/gen_int2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ide",
+            "size": "3252",
+            "path": "data\/maps\/interior\/gen_int3.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int3.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int3.ipl",
+            "size": "2091",
+            "path": "data\/maps\/interior\/gen_int3.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ide",
+            "size": "2323",
+            "path": "data\/maps\/interior\/gen_int4.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int4.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int4.ipl",
+            "size": "1185",
+            "path": "data\/maps\/interior\/gen_int4.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ide",
+            "size": "4682",
+            "path": "data\/maps\/interior\/gen_int5.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int5.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_int5.ipl",
+            "size": "2988",
+            "path": "data\/maps\/interior\/gen_int5.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_int5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ide",
+            "size": "5459",
+            "path": "data\/maps\/interior\/gen_intb.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_intb.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "gen_intb.ipl",
+            "size": "1626",
+            "path": "data\/maps\/interior\/gen_intb.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/gen_intb.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ide",
+            "size": "6004",
+            "path": "data\/maps\/interior\/int_LA.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_LA.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_LA.ipl",
+            "size": "1312",
+            "path": "data\/maps\/interior\/int_LA.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_LA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ide",
+            "size": "1260",
+            "path": "data\/maps\/interior\/int_SF.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_SF.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_SF.ipl",
+            "size": "1334",
+            "path": "data\/maps\/interior\/int_SF.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_SF.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ide",
+            "size": "385",
+            "path": "data\/maps\/interior\/int_cont.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_cont.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_cont.ipl",
+            "size": "910",
+            "path": "data\/maps\/interior\/int_cont.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_cont.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ide",
+            "size": "4684",
+            "path": "data\/maps\/interior\/int_veg.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_veg.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "int_veg.ipl",
+            "size": "5299",
+            "path": "data\/maps\/interior\/int_veg.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/int_veg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "propext.ide",
+            "size": "2340",
+            "path": "data\/maps\/interior\/propext.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/propext.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props.ide",
+            "size": "26326",
+            "path": "data\/maps\/interior\/props.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/props.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "props2.ide",
+            "size": "21174",
+            "path": "data\/maps\/interior\/props2.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/props2.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ide",
+            "size": "1724",
+            "path": "data\/maps\/interior\/savehous.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/savehous.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "savehous.ipl",
+            "size": "2959",
+            "path": "data\/maps\/interior\/savehous.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/savehous.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ide",
+            "size": "2851",
+            "path": "data\/maps\/interior\/stadint.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/stadint.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "stadint.ipl",
+            "size": "6299",
+            "path": "data\/maps\/interior\/stadint.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/interior\/stadint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ide",
+            "size": "360",
+            "path": "data\/maps\/leveldes\/leveldes.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/leveldes.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "leveldes.ipl",
+            "size": "165",
+            "path": "data\/maps\/leveldes\/leveldes.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/leveldes.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ide",
+            "size": "3194",
+            "path": "data\/maps\/leveldes\/levelmap.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/levelmap.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "levelmap.ipl",
+            "size": "4675",
+            "path": "data\/maps\/leveldes\/levelmap.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/levelmap.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "levelxre.ide",
+            "size": "9897",
+            "path": "data\/maps\/leveldes\/levelxre.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/levelxre.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ide",
+            "size": "12039",
+            "path": "data\/maps\/leveldes\/seabed.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/seabed.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "seabed.ipl",
+            "size": "23342",
+            "path": "data\/maps\/leveldes\/seabed.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/leveldes\/seabed.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlu.ipl",
+            "size": "1012",
+            "path": "data\/maps\/occlu.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/occlu.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluLA.ipl",
+            "size": "35956",
+            "path": "data\/maps\/occluLA.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/occluLA.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluint.ipl",
+            "size": "2338",
+            "path": "data\/maps\/occluint.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/occluint.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occlusf.ipl",
+            "size": "16114",
+            "path": "data\/maps\/occlusf.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/occlusf.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "occluveg.ipl",
+            "size": "17944",
+            "path": "data\/maps\/occluveg.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/occluveg.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths.ipl",
+            "size": "2658607",
+            "path": "data\/maps\/paths.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/paths.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths2.ipl",
+            "size": "2292241",
+            "path": "data\/maps\/paths2.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/paths2.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths3.ipl",
+            "size": "2428066",
+            "path": "data\/maps\/paths3.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/paths3.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths4.ipl",
+            "size": "253014",
+            "path": "data\/maps\/paths4.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/paths4.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "paths5.ipl",
+            "size": "457678",
+            "path": "data\/maps\/paths5.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/paths5.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "tunnels.ipl",
+            "size": "3230",
+            "path": "data\/maps\/tunnels.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/tunnels.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasN.ide",
+            "size": "23715",
+            "path": "data\/maps\/vegas\/VegasN.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/VegasN.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasS.ide",
+            "size": "18656",
+            "path": "data\/maps\/vegas\/VegasS.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/VegasS.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "VegasW.ide",
+            "size": "25456",
+            "path": "data\/maps\/vegas\/VegasW.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/VegasW.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ide",
+            "size": "35542",
+            "path": "data\/maps\/vegas\/vegasE.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegasE.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasE.ipl",
+            "size": "61084",
+            "path": "data\/maps\/vegas\/vegasE.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegasE.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasN.ipl",
+            "size": "36651",
+            "path": "data\/maps\/vegas\/vegasN.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegasN.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasS.ipl",
+            "size": "30343",
+            "path": "data\/maps\/vegas\/vegasS.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegasS.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegasW.ipl",
+            "size": "49867",
+            "path": "data\/maps\/vegas\/vegasW.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegasW.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ide",
+            "size": "5751",
+            "path": "data\/maps\/vegas\/vegaxref.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegaxref.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vegaxref.ipl",
+            "size": "3661",
+            "path": "data\/maps\/vegas\/vegaxref.ipl",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/vegas\/vegaxref.ipl",
+            "gpu": "all"
+        },
+        {
+            "name": "veh_mods.ide",
+            "size": "7323",
+            "path": "data\/maps\/veh_mods\/veh_mods.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/maps\/veh_mods\/veh_mods.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "melee.dat",
+            "size": "6306",
+            "path": "data\/melee.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/melee.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "object.dat",
+            "size": "126118",
+            "path": "data\/object.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/object.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ROADBLOX.DAT",
+            "size": "1304",
+            "path": "data\/paths\/ROADBLOX.DAT",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/ROADBLOX.DAT",
+            "gpu": "all"
+        },
+        {
+            "name": "carrec.img",
+            "size": "2357248",
+            "path": "data\/paths\/carrec.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/carrec.img",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks.dat",
+            "size": "25474",
+            "path": "data\/paths\/tracks.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/tracks.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks2.dat",
+            "size": "1892",
+            "path": "data\/paths\/tracks2.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/tracks2.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks3.dat",
+            "size": "8328",
+            "path": "data\/paths\/tracks3.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/tracks3.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "tracks4.dat",
+            "size": "18347",
+            "path": "data\/paths\/tracks4.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/paths\/tracks4.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "ped.dat",
+            "size": "1276",
+            "path": "data\/ped.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/ped.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "pedgrp.dat",
+            "size": "5792",
+            "path": "data\/pedgrp.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/pedgrp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.ide",
+            "size": "33401",
+            "path": "data\/peds.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/peds.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "pedstats.dat",
+            "size": "3604",
+            "path": "data\/pedstats.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/pedstats.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "plants.dat",
+            "size": "9887",
+            "path": "data\/plants.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/plants.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "popcycle.dat",
+            "size": "127108",
+            "path": "data\/popcycle.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/popcycle.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "procobj.dat",
+            "size": "10019",
+            "path": "data\/procobj.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/procobj.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "shopping.dat",
+            "size": "46875",
+            "path": "data\/shopping.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/shopping.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "statdisp.dat",
+            "size": "7292",
+            "path": "data\/statdisp.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/statdisp.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surface.dat",
+            "size": "576",
+            "path": "data\/surface.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/surface.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfaud.dat",
+            "size": "6530",
+            "path": "data\/surfaud.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/surfaud.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "surfinfo.dat",
+            "size": "28106",
+            "path": "data\/surfinfo.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/surfinfo.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "timecyc.dat",
+            "size": "40037",
+            "path": "data\/timecyc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/timecyc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txdcut.ide",
+            "size": "478",
+            "path": "data\/txdcut.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/txdcut.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.ide",
+            "size": "21093",
+            "path": "data\/vehicles.ide",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/vehicles.ide",
+            "gpu": "all"
+        },
+        {
+            "name": "water.dat",
+            "size": "70099",
+            "path": "data\/water.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/water.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "water1.dat",
+            "size": "60063",
+            "path": "data\/water1.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/water1.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "weapon.dat",
+            "size": "11602",
+            "path": "data\/weapon.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/data\/weapon.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "peds.col",
+            "size": "21477",
+            "path": "models\/coll\/peds.col",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/models\/coll\/peds.col",
+            "gpu": "all"
+        },
+        {
+            "name": "vehicles.col",
+            "size": "1096",
+            "path": "models\/coll\/vehicles.col",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/models\/coll\/vehicles.col",
+            "gpu": "all"
+        },
+        {
+            "name": "weapons.col",
+            "size": "560",
+            "path": "models\/coll\/weapons.col",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/models\/coll\/weapons.col",
+            "gpu": "all"
+        },
+        {
+            "name": "effects.fxp",
+            "size": "616708",
+            "path": "models\/effects.fxp",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/models\/effects.fxp",
+            "gpu": "all"
+        },
+        {
+            "name": "stream.ini",
+            "size": "197",
+            "path": "stream.ini",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/stream.ini",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.dxt.dat",
+            "size": "5731070",
+            "path": "texdb\/cutscene\/cutscene.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.dxt.tmb",
+            "size": "19440",
+            "path": "texdb\/cutscene\/cutscene.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.dxt.toc",
+            "size": "1628",
+            "path": "texdb\/cutscene\/cutscene.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "cutscene.etc.dat",
+            "size": "5482370",
+            "path": "texdb\/cutscene\/cutscene.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.etc.tmb",
+            "size": "20784",
+            "path": "texdb\/cutscene\/cutscene.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.etc.toc",
+            "size": "1628",
+            "path": "texdb\/cutscene\/cutscene.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "cutscene.pvr.dat",
+            "size": "3614492",
+            "path": "texdb\/cutscene\/cutscene.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.pvr.tmb",
+            "size": "30608",
+            "path": "texdb\/cutscene\/cutscene.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.pvr.toc",
+            "size": "1628",
+            "path": "texdb\/cutscene\/cutscene.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "cutscene.txt",
+            "size": "24626",
+            "path": "texdb\/cutscene\/cutscene.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.unc.tmb",
+            "size": "56304",
+            "path": "texdb\/cutscene\/cutscene.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene\/cutscene.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "cutscene.img",
+            "size": "16029696",
+            "path": "texdb\/cutscene.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/cutscene.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.dxt.dat",
+            "size": "185311596",
+            "path": "texdb\/gta3\/gta3.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.tmb",
+            "size": "525340",
+            "path": "texdb\/gta3\/gta3.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.dxt.toc",
+            "size": "49784",
+            "path": "texdb\/gta3\/gta3.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta3.etc.dat",
+            "size": "185725552",
+            "path": "texdb\/gta3\/gta3.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.tmb",
+            "size": "575452",
+            "path": "texdb\/gta3\/gta3.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.etc.toc",
+            "size": "49784",
+            "path": "texdb\/gta3\/gta3.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta3.pvr.dat",
+            "size": "115205762",
+            "path": "texdb\/gta3\/gta3.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.tmb",
+            "size": "794396",
+            "path": "texdb\/gta3\/gta3.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.pvr.toc",
+            "size": "49784",
+            "path": "texdb\/gta3\/gta3.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta3.txt",
+            "size": "792665",
+            "path": "texdb\/gta3\/gta3.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.unc.tmb",
+            "size": "1457212",
+            "path": "texdb\/gta3\/gta3.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3\/gta3.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta3.img",
+            "size": "283521024",
+            "path": "texdb\/gta3.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta3.img",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.dxt.dat",
+            "size": "48496978",
+            "path": "texdb\/gta_int\/gta_int.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.tmb",
+            "size": "125994",
+            "path": "texdb\/gta_int\/gta_int.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.dxt.toc",
+            "size": "10168",
+            "path": "texdb\/gta_int\/gta_int.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "gta_int.etc.dat",
+            "size": "48441188",
+            "path": "texdb\/gta_int\/gta_int.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.tmb",
+            "size": "141674",
+            "path": "texdb\/gta_int\/gta_int.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.etc.toc",
+            "size": "10168",
+            "path": "texdb\/gta_int\/gta_int.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "gta_int.pvr.dat",
+            "size": "29595400",
+            "path": "texdb\/gta_int\/gta_int.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.tmb",
+            "size": "188330",
+            "path": "texdb\/gta_int\/gta_int.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.pvr.toc",
+            "size": "10168",
+            "path": "texdb\/gta_int\/gta_int.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "gta_int.txt",
+            "size": "159541",
+            "path": "texdb\/gta_int\/gta_int.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.unc.tmb",
+            "size": "352202",
+            "path": "texdb\/gta_int\/gta_int.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int\/gta_int.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "gta_int.img",
+            "size": "44836864",
+            "path": "texdb\/gta_int.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/gta_int.img",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.dat",
+            "size": "7799478",
+            "path": "texdb\/menu\/menu.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.dxt.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.tmb",
+            "size": "860",
+            "path": "texdb\/menu\/menu.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.dxt.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.dxt.toc",
+            "size": "176",
+            "path": "texdb\/menu\/menu.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.dxt.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.dat",
+            "size": "10822324",
+            "path": "texdb\/menu\/menu.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.etc.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.tmb",
+            "size": "860",
+            "path": "texdb\/menu\/menu.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.etc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.etc.toc",
+            "size": "176",
+            "path": "texdb\/menu\/menu.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.etc.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.dat",
+            "size": "10822324",
+            "path": "texdb\/menu\/menu.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.tmb",
+            "size": "860",
+            "path": "texdb\/menu\/menu.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.pvr.toc",
+            "size": "176",
+            "path": "texdb\/menu\/menu.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.txt",
+            "size": "3342",
+            "path": "texdb\/menu\/menu.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "menu.unc.tmb",
+            "size": "860",
+            "path": "texdb\/menu\/menu.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/menu\/menu.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.dxt.dat",
+            "size": "7267946",
+            "path": "texdb\/mobile\/mobile.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.tmb",
+            "size": "3940",
+            "path": "texdb\/mobile\/mobile.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.dxt.toc",
+            "size": "792",
+            "path": "texdb\/mobile\/mobile.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "mobile.etc.dat",
+            "size": "8712314",
+            "path": "texdb\/mobile\/mobile.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.tmb",
+            "size": "3940",
+            "path": "texdb\/mobile\/mobile.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.etc.toc",
+            "size": "792",
+            "path": "texdb\/mobile\/mobile.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "mobile.pvr.dat",
+            "size": "8712314",
+            "path": "texdb\/mobile\/mobile.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.tmb",
+            "size": "3940",
+            "path": "texdb\/mobile\/mobile.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.pvr.toc",
+            "size": "792",
+            "path": "texdb\/mobile\/mobile.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "mobile.txt",
+            "size": "14502",
+            "path": "texdb\/mobile\/mobile.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "mobile.unc.tmb",
+            "size": "3940",
+            "path": "texdb\/mobile\/mobile.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/mobile\/mobile.unc.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.dat",
+            "size": "6569414",
+            "path": "texdb\/player\/player.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/player\/player.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.tmb",
+            "size": "6940",
+            "path": "texdb\/player\/player.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/player\/player.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "player.pvr.toc",
+            "size": "1580",
+            "path": "texdb\/player\/player.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/player\/player.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "player.txt",
+            "size": "27810",
+            "path": "texdb\/player\/player.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/player\/player.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "player.img",
+            "size": "16412672",
+            "path": "texdb\/player.img",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/player.img",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.dat",
+            "size": "27658902",
+            "path": "texdb\/playerhi\/playerhi.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/playerhi\/playerhi.pvr.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.tmb",
+            "size": "6940",
+            "path": "texdb\/playerhi\/playerhi.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/playerhi\/playerhi.pvr.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.pvr.toc",
+            "size": "1580",
+            "path": "texdb\/playerhi\/playerhi.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/playerhi\/playerhi.pvr.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "playerhi.txt",
+            "size": "28087",
+            "path": "texdb\/playerhi\/playerhi.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/playerhi\/playerhi.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.dat",
+            "size": "7625578",
+            "path": "texdb\/txd\/txd.360.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.360.dat",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.tmb",
+            "size": "31028",
+            "path": "texdb\/txd\/txd.360.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.360.tmb",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.360.toc",
+            "size": "2376",
+            "path": "texdb\/txd\/txd.360.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.360.toc",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.dxt.dat",
+            "size": "7625578",
+            "path": "texdb\/txd\/txd.dxt.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.dxt.dat",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.tmb",
+            "size": "31028",
+            "path": "texdb\/txd\/txd.dxt.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.dxt.tmb",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.dxt.toc",
+            "size": "2376",
+            "path": "texdb\/txd\/txd.dxt.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.dxt.toc",
+            "gpu": "dxt"
+        },
+        {
+            "name": "txd.etc.dat",
+            "size": "9422056",
+            "path": "texdb\/txd\/txd.etc.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.etc.dat",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.tmb",
+            "size": "49460",
+            "path": "texdb\/txd\/txd.etc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.etc.tmb",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.etc.toc",
+            "size": "2376",
+            "path": "texdb\/txd\/txd.etc.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.etc.toc",
+            "gpu": "etc"
+        },
+        {
+            "name": "txd.pvr.dat",
+            "size": "7716880",
+            "path": "texdb\/txd\/txd.pvr.dat",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.pvr.dat",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.tmb",
+            "size": "25204",
+            "path": "texdb\/txd\/txd.pvr.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.pvr.tmb",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.pvr.toc",
+            "size": "2376",
+            "path": "texdb\/txd\/txd.pvr.toc",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.pvr.toc",
+            "gpu": "pvr"
+        },
+        {
+            "name": "txd.txt",
+            "size": "43193",
+            "path": "texdb\/txd\/txd.txt",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.txt",
+            "gpu": "all"
+        },
+        {
+            "name": "txd.unc.tmb",
+            "size": "59636",
+            "path": "texdb\/txd\/txd.unc.tmb",
+            "url": "https:\/\/files.alynsampmobile.pro\/data\/data_full\/texdb\/txd\/txd.unc.tmb",
+            "gpu": "all"
+        }
+    ]
 }
