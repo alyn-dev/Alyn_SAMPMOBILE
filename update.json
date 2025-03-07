@@ -1,8 +1,4 @@
 {
     "app_status": true,
-    "app_testers": ["AAAAAAAAAAAAAAAAAAAAAD4JHFlvEFFVRDkIWQFcVQQF", "AAAAAAAAAAAAAAAAAAAAAD5cSlo8RwcPQ2gOWFBcX1YD", "AAAAAAAAAAAAAAAAAAAAAD4PGwg5EQRbFTsPVlFRWgNU", "AAAAAAAAAAAAAAAAAAAAAD5UTVg7RVFdRm0JDQAIX1VV", "AAAAAAAAAAAAAAAAAAAAAD4NSg07FQRcSWZeWVsNXFED"],
-    "game_version": "17.0",
-    "samp_list_url": "https://alynsampmobile.pro/data/samp_list.json",
-    "full_list_url": "https://alynsampmobile.pro/data/full_list.json",
-    "lite_list_url": "https://alynsampmobile.pro/data/lite_list.json"
+    "game_version": "17.5"
 }

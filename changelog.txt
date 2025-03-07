@@ -1,3 +1,13 @@
+* Update: v17.5 *
+
+Launcher:
+- Full recode
+
+Game: 
+- Fixed crash in loading screen
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v17.0 *
 
 Launcher:
