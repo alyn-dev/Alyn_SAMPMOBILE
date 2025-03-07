@@ -1,3 +1,10 @@
+* Update: v17.6 *
+
+Launcher:
+- Fixed game files download
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v17.5 *
 
 Launcher:
