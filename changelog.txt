@@ -1,3 +1,15 @@
+* Update: v18.0 *
+
+Launcher:
+- Fixed bugs and crashes
+
+Game:
+- Created 2 versions of the client (new client and arz client)
+- Arz is the old client 16.3 Arizona with mods (aml, cleo, monet, modloader) for x32 arch only
+- Download arz apk from discord since its a different app (package: ro.alyn_sampmobile.game)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
 * Update: v17.6 *
 
 Launcher:
